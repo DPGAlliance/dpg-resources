@@ -1,5 +1,7 @@
-# Open Source 
-The Apache Project Maturity Model - A suggested framework for evaluating the overall maturity of an Apache project community and the codebase that it maintains. While this model is specific to Apache projects many of these factors are important for any open source project.
-The Open Source Guides are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.(specific for and by Github, but many parts can be re-mixed and re-used for more general purpose)
-The Standard for Public Code is a set of criteria that supports public organizations in developing and maintaining software and policy together. The Standard describes a number of criteria. All criteria have consistent sections that make it clear how to create great public code. Below is a brief explanation of each of these sections and how they are used within the criteria of the Standard.
+# Open Source
+
+- [The Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html) - A suggested framework for evaluating the overall maturity of an Apache project community and the codebase that it maintains. While this model is specific to Apache projects many of these factors are important for any open source project.
+- The [Open Source Guides](https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.(specific for and by Github, but many parts can be re-mixed and re-used for more general purpose)
+- [The Standard for Public Code](https://github.com/publiccodenet/standard/blob/develop/introduction.md) is a set of criteria that supports public organizations in developing and maintaining software and policy together. The Standard describes a number of criteria. All criteria have consistent sections that make it clear how to create great public code. Below is a brief explanation of each of these sections and how they are used within the criteria of the Standard.
+
 
