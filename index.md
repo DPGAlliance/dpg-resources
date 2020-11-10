@@ -8,4 +8,4 @@ The goal of this project is to collect resources that will help DPGs, both who a
 * Legal Compliance	
 * Best Practices & Principles	
 * Do No Harm	
-* Child Online Saf
+* Child Online Safety
