@@ -1,4 +1,4 @@
 # Resources for DPG Nominees
+Too often, scarce public and international development resources are spent investing in new software code, tools, data collection, content and innovations for sector-specific solutions that are locked away behind licensing fees, with data only used by and available to specific initiatives. An open approach to digital development can help to increase collaboration in the digital development community and avoid duplicating work that has already been done. Programs can maximize their resources — and ultimately their impact — through open standards, open data, open source technologies and open innovation. By taking advantage of existing investments when you are able, you can apply finite digital development resources toward creating global goods.
+
 The goal of this resource collection is to help DPGs, both who are successful or not successful with their submission, continue to approve their project within the focus areas of the DPG indicators. 
-
-
