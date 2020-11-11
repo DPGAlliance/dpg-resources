@@ -10,5 +10,9 @@ Common accessibility guidelines specific for EPUB in addition to WCAG: (e.g. [EP
 
 ## Legal Compliance
 
+## Best Practices and Principles
 
-## Legal Compliance
+- [The Development Principles](https://digitalprinciples.org/) - https://digitalprinciples.org/ - A set of living guidance intended to help practitioners succeed in applying digital technologies to development programs.
+
+## Do No Harm
+- Child Online Safety()
