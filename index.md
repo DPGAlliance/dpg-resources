@@ -3,7 +3,7 @@ An open approach to digital development can help to increase collaboration in th
 
 The goal of this resource collection is to help DPGs, both who are successful or not successful with their submission, continue to approve their project within the focus areas of the DPG indicators. 
 
-The collection will cover general topics like accessibilty, "do no harm" and licensing in addition to spesific resourcses spesific for: 
+The collection will cover general topics like accessibilty, "do no harm", childe online safety and licensing in addition to spesific resourcses spesific for: 
 * open source software 
 * open data 
 * open AI models 
