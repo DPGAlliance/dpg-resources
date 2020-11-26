@@ -9,3 +9,4 @@ The collection will cover general topics like accessibility, "do no harm", child
 * Open data  
 * Open standards 
 * Open AI models 
+* [Open design resources](https://github.com/DPGAlliance/DPG-Resources/blob/main/opendesign.md)
