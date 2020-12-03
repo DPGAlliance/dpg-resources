@@ -1,5 +1,9 @@
 # Compliance and best practice 
 
+## OWASP Foundation testing guidlines
+The OWASP Foundation works to improve the security of software through its community-led open source software projects, hundreds of chapters worldwide, tens of thousands of members, and by hosting local and global conferences
+https://owasp.org/
+
 ## Accessibility guidelines
 
 The [WCAG 2.0 Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) covers a wide range of recommendations for making web content more accessible. GDL will follow these guidelines to secure that the content is accessible for all users. By following these guidelines one will also often make the web content more usable in general.
