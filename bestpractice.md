@@ -1,8 +1,7 @@
 # Compliance and best practice 
 
-## OWASP Foundation testing guidlines
-The OWASP Foundation works to improve the security of software through its community-led open source software projects, hundreds of chapters worldwide, tens of thousands of members, and by hosting local and global conferences
-https://owasp.org/
+[The OWASP Foundation](https://owasp.org/) works to improve the security of software through its community-led open source software projects, hundreds of chapters worldwide, tens of thousands of members, and by hosting local and global conferences.
+
 
 ## Accessibility guidelines
 
