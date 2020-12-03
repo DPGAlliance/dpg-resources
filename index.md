@@ -6,7 +6,7 @@ The goal of this resource collection is to help DPGs, both who are successful or
 The collection will cover general topics like accessibility, "do no harm", child online safety, and licensing in addition to specific resources covering: 
 * [Open source software](https://github.com/DPGAlliance/DPG-Resources/blob/main/opensource.md) 
 * [Open content](https://github.com/DPGAlliance/DPG-Resources/blob/main/content.md)
-* Open data  
+* [Open data](https://github.com/DPGAlliance/DPG-Resources/blob/main/data.md)  
 * Open standards 
 * Open AI models 
 * [Open design resources](https://github.com/DPGAlliance/DPG-Resources/blob/main/opendesign.md)
