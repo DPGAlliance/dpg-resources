@@ -12,7 +12,7 @@ The goal of this resource collection is to help DPGs, both who are successful or
 - [A primer developed by the Digital Impact and Governance Initiative](https://www.newamerica.org/digital-impact-governance-initiative/reports/building-and-reusing-open-source-tools-government/) for any government entity thinking about embracing open source solutions. Open source tools have been around since the 1980s, and used by governments for decades. As a result, there are known methods for making the most of using the resource.
 - [A manual from Gov.uk - Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) When you create new source code, you must make it open so that other developers (including those outside government) can benefit from your work and build on it, learn from your experiences and find uses for your code which you hadn’t found.
 
-## Open data
+## Open data 
 
 [The Open Data Handbook](http://opendatahandbook.org/guide/en/) discusses the legal, social and technical aspects of open data. It can be used by anyone but is especially designed for those seeking to open up data. It discusses the why, what and how of open data – why to go open, what open is, and the how to &#39;open&#39; data.
 
@@ -24,6 +24,9 @@ The goal of this resource collection is to help DPGs, both who are successful or
 A Data Protection Impact Assessment (DPIA) is a way for you to systematically and comprehensively analyse your processing and help you identify and minimise data protection risks. DPIAs should consider compliance risks, but also broader risks to the rights and freedoms of individuals, including the potential for any significant social or economic disadvantage. The focus is on the potential for harm – to individuals or to society at large, whether it is physical, material or non-material. To assess the level of risk, a DPIA must consider both the likelihood and the severity of any impact on individuals.
 
 Data protection impact assessments are required under GDPR but in general are a good idea to require for any humanitarian technology project using data. Most EU countries will have a web page with resources on how to conduct one. For reference, refer to [the one from the UK](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/) which includes a document template that you just fill out.
+
+## Open access
+[uidance on the Implementation of Plan S](https://www.coalition-s.org/guidance-on-the-implementation-of-plan-s/). Plan S aims for full and immediate Open Access to peer-reviewed scholarly publications from research funded by public and private grants. cOAlition S, the coalition of research funders that have committed to implementing Plan S, aims to accelerate the transition to a scholarly publishing system that is characterised by immediate, free online access to, and largely unrestricted use and re-use (full Open Access) of scholarly publications.
 
 ## Content
 
