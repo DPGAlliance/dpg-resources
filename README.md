@@ -32,7 +32,8 @@ There are many different categories of content and contexts for using content ty
 ### Security
 [The OWASP Foundation](https://owasp.org/) works to improve the security of software through its community-led open source software projects, hundreds of chapters worldwide, tens of thousands of members, and by hosting local and global conferences.
 
-
+### Legal guides
+[An introducation](https://opensource.guide/legal/) to the legal implications of open source from Open Source Guides and GitHub. 
 
 
 ### Accessibility guidelines
@@ -43,7 +44,7 @@ Common accessibility guidelines specific for EPUB in addition to WCAG: (e.g. [EP
 
 [10 Tips for Creating Accessible EPUB 3](https://blog.bookshare.org/2013/03/10-tips-for-creating-accessible-epub-3-files/). The DIAGRAM Center, WGBH National Center for Accessible Media (NCAM), and the U.S. Fund for DAISY are collaborating to identify challenges within the technologies, standards and production practices used to produce and display accessible images and graphic content within AIM, and develop technologies, tools, recommended practices and training materials that address them. In support of this goal, the DIAGRAM Center has produced this document with 10 tips for creating accessible EPUB 3 files.
 
-## Best Practices and Principles
+### Best Practices and Principles
 
 - [The Development Principles](https://digitalprinciples.org/) - https://digitalprinciples.org/ - A set of living guidance intended to help practitioners succeed in applying digital technologies to development programs.
 
