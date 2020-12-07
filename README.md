@@ -26,11 +26,10 @@ A Data Protection Impact Assessment (DPIA) is a way for you to systematically an
 Data protection impact assessments are required under GDPR but in general are a good idea to require for any humanitarian technology project using data. Most EU countries will have a web page with resources on how to conduct one. For reference, refer to [the one from the UK](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/) which includes a document template that you just fill out.
 
 ## Open access
-[uidance on the Implementation of Plan S](https://www.coalition-s.org/guidance-on-the-implementation-of-plan-s/). Plan S aims for full and immediate Open Access to peer-reviewed scholarly publications from research funded by public and private grants. cOAlition S, the coalition of research funders that have committed to implementing Plan S, aims to accelerate the transition to a scholarly publishing system that is characterised by immediate, free online access to, and largely unrestricted use and re-use (full Open Access) of scholarly publications.
+[Guidance on the Implementation of Plan S](https://www.coalition-s.org/guidance-on-the-implementation-of-plan-s/). Plan S aims for full and immediate Open Access to peer-reviewed scholarly publications from research funded by public and private grants. cOAlition S, the coalition of research funders that have committed to implementing Plan S, aims to accelerate the transition to a scholarly publishing system that is characterised by immediate, free online access to, and largely unrestricted use and re-use (full Open Access) of scholarly publications.
 
 ## Content
 
-There are many different categories of content and contexts for using content types. [sub-categories of content will be added]
 
 ### General resources for Creative Commons licenses
 - [The Creative Commons Legal Database](https://creativecommons.org/2020/12/03/explore-the-new-cc-legal-database-site/) is a collection of case law and legal scholarship to help our users learn more about legal issues surrounding Creative Commons (CC) licenses and legal tools. This information has been contributed by many dedicated members of the CC Global Network and the CC Legal Team. 
