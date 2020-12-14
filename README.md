@@ -4,7 +4,7 @@ The goal of this resource collection is to help DPGs, both who are successful or
 
 ## Sustainable development Goals
 
-[SDG Academy](https://sdgacademy.org/) Free, open educational resources from the world’s leading experts on sustainable development.
+[SDG Academy](https://sdgacademy.org/) are free, open educational resources from the world’s leading experts on sustainable development.
 
 ## Open Source resources
 
