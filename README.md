@@ -71,7 +71,7 @@ The [WCAG 2.0 Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) cov
 - [The Development Principles](https://digitalprinciples.org/) - https://digitalprinciples.org/ - A set of living guidance intended to help practitioners succeed in applying digital technologies to development programs.
 
 ### Do No Harm
-- Child Online Safety()
+- Child Online Safety(Under development)
 
 
 
