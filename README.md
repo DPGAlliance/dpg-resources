@@ -2,6 +2,9 @@
 
 The goal of this resource collection is to help DPGs, both who are successful or not successful with their submission, continue to approve their project within the focus areas of the DPG indicators. Theis readme file will contain the acumulated resourses, while the subfiles will be documents under development. 
 
+## Sustainable development Goals
+
+[SDG Academy](https://sdgacademy.org/) Free, open educational resources from the world’s leading experts on sustainable development.
 
 ## Open Source resources
 
