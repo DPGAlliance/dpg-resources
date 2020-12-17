@@ -1,6 +1,6 @@
 # Resources for DPG Nominees (Early Alfa version under development)
 
-The goal of this resource collection is to help DPGs, both who are successful or not successful with their submission, continue to approve their project within the focus areas of the DPG indicators. Theis readme file will contain the acumulated resourses, while the subfiles will be documents under development. 
+The goal of this resource collection is to help DPGs, both who are successful or not successful with their submission, continue to approve their project within the focus areas of the DPG indicators. This readme file will contain the acumulated resourses, while the subfiles will be documents under development. 
 
 ## Sustainable development Goals
 
@@ -14,6 +14,7 @@ The goal of this resource collection is to help DPGs, both who are successful or
 - [The Linux Foundation Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/). Leverage best practices for running an open source program office or starting an open source project in your organization. Developed by The Linux Foundation in partnership with the TODO Group, these resources represent the experience of our staff, projects, and members.
 - [A primer developed by the Digital Impact and Governance Initiative](https://www.newamerica.org/digital-impact-governance-initiative/reports/building-and-reusing-open-source-tools-government/) for any government entity thinking about embracing open source solutions. Open source tools have been around since the 1980s, and used by governments for decades. As a result, there are known methods for making the most of using the resource.
 - [A manual from Gov.uk - Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) When you create new source code, you must make it open so that other developers (including those outside government) can benefit from your work and build on it, learn from your experiences and find uses for your code which you hadn’t found.
+- [The OWASP Foundation](https://owasp.org/) works to improve the security of software through its community-led open source software projects, hundreds of chapters worldwide, tens of thousands of members, and by hosting local and global conferences.
 
 ## Open data 
 
