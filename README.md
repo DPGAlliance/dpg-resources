@@ -4,7 +4,7 @@ The goal of this resource collection is to help DPGs, both who are successful or
 
 ## Sustainable development Goals
 
-[SDG Academy](https://sdgacademy.org/) are free, open educational resources from the world’s leading experts on sustainable development.
+- [SDG Academy](https://sdgacademy.org/) are free, open educational resources from the world’s leading experts on sustainable development.
 
 ## Open Source resources
 
@@ -70,6 +70,7 @@ The [WCAG 2.0 Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) cov
 ### Best Practices and Principles
 
 - [The Development Principles](https://digitalprinciples.org/) - https://digitalprinciples.org/ - A set of living guidance intended to help practitioners succeed in applying digital technologies to development programs.
+- [Principles on Identification for Sustainable Development](https://id4d.worldbank.org/principles) a set of common Principles fundamental to maximizing the benefits of identification systems for sustainable development while mitigating many of the risks. These Principles are intended to apply to the broad concept of “legal identification” systems: those that register and identify individuals to provide government-recognized credentials (e.g., identifying numbers, cards, digital certificates, etc.) that can be used as proof of identity but also provide an excellent set of considerations and guidance for anyone looking to build infrastructural DPGs that advance the sustainable development goals. 
 
 ### Do No Harm
 - Child Online Safety(Under development)
