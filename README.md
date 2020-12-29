@@ -41,7 +41,7 @@ Data protection impact assessments are required under GDPR but in general are a 
 ### General resources for Creative Commons licenses
 - [The Creative Commons Legal Database](https://creativecommons.org/2020/12/03/explore-the-new-cc-legal-database-site/) is a collection of case law and legal scholarship to help our users learn more about legal issues surrounding Creative Commons (CC) licenses and legal tools. This information has been contributed by many dedicated members of the CC Global Network and the CC Legal Team. 
 
-- [The Creative Commons licenses](https://creativecommons.org/about/cclicenses/) give everyone from individual creators to large institutions a standardized way to grant the public permission to use their creative work under copyright law. This page provides basic inforamtion and guidlines for picking licenses based on spesific user or project goals. 
+- [The Creative Commons licenses](https://creativecommons.org/about/cclicenses/) give everyone from individual creators to large institutions a standardized way to grant the public permission to use their creative work under copyright law. Their website provides basic information and guidelines for picking licenses based on specific user or project goals.
 
 
 ### Open educational resources
