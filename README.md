@@ -73,7 +73,7 @@ The [WCAG 2.0 Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) cov
 - [Principles on Identification for Sustainable Development](https://id4d.worldbank.org/principles) a set of common Principles fundamental to maximizing the benefits of identification systems for sustainable development while mitigating many of the risks. These Principles are intended to apply to the broad concept of “legal identification” systems: those that register and identify individuals to provide government-recognized credentials (e.g., identifying numbers, cards, digital certificates, etc.) that can be used as proof of identity but also provide an excellent set of considerations and guidance for anyone looking to build infrastructural DPGs that advance the sustainable development goals. 
 
 ### Do No Harm
-- Child Online Safety(Under development)
 
+The  [COP Guidelines for industry](https://www.itu-cop-guidelines.com/industry?lang=fr) aim  at establishing the foundation for safer and more secure use of Internet-based services and associated technologies for today’s children and future generations.
 
 
