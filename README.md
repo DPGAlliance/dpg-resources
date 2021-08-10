@@ -1,4 +1,4 @@
-# Resources for DPG Nominees (Early Alfa version under development)
+# Resources for DPG Nominees (Early Alpha version under development)
 
 The goal of this resource collection is to help DPGs, both who are successful or not successful with their submission, continue to approve their project within the focus areas of the DPG indicators. This readme file will contain the acumulated resourses, while the subfiles will be documents under development. 
 
