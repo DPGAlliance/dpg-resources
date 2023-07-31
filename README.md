@@ -1,89 +1,83 @@
-# Resources for DPG Nominees (Early Alpha version under development)
+# DPG Resources
 
-The goal of this resource collection is to help DPGs, both who are successful or not successful with their submission, continue to approve their project within the focus areas of the DPG indicators. This readme file will contain the accumulated resources, while the subfiles will be documents under development. 
+A single place for all documentation, recources, guides and templates to help digital solutions with their Digital Public Good (DPG) application and for successful DPGs to continue to improve their project within the focus areas of the [DPG Standard](https://digitalpublicgoods.net/standard/).
 
-## Sustainable development Goals
+> If you are not yet a recognized digital public good, consider applying! Learn more about it [here](https://digitalpublicgoods.net/digital-public-goods/) and review the [eligibility requirements](https://digitalpublicgoods.net/submission-guide/).
 
-- [SDG Academy](https://sdgacademy.org/) are free, open educational resources from the world’s leading experts on sustainable development.
+## 🙋 Getting started
 
-## Open Source resources
+Welcome, please select the starting point for your journey:
 
-- [The Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html) - A suggested framework for evaluating the overall maturity of an Apache project community and the codebase that it maintains. While this model is specific to Apache projects many of these factors are important for any open source project.
-- The [Open Source Guides](https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.(specific for and by Github, but many parts can be re-mixed and re-used for more general purpose)
-- [The Standard for Public Code](https://github.com/publiccodenet/standard/blob/develop/introduction.md) is a set of criteria that supports public organizations in developing and maintaining software and policy together. The Standard describes a number of criteria. All criteria have consistent sections that make it clear how to create great public code. Below is a brief explanation of each of these sections and how they are used within the criteria of the Standard.
-- [The Linux Foundation Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/). Leverage best practices for running an open source program office or starting an open source project in your organization. Developed by The Linux Foundation in partnership with the TODO Group, these resources represent the experience of our staff, projects, and members.
-- [A primer developed by the Digital Impact and Governance Initiative](https://www.newamerica.org/digital-impact-governance-initiative/reports/building-and-reusing-open-source-tools-government/) for any government entity thinking about embracing open source solutions. Open source tools have been around since the 1980s, and used by governments for decades. As a result, there are known methods for making the most of using the resource.
-- [A manual from Gov.uk - Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) When you create new source code, you must make it open so that other developers (including those outside government) can benefit from your work and build on it, learn from your experiences and find uses for your code which you hadn’t found.
-- [The OWASP Foundation](https://owasp.org/) works to improve the security of software through its community-led open source software projects, hundreds of chapters worldwide, tens of thousands of members, and by hosting local and global conferences.
+1. [I have a project that I want to make open source.](#🔓-open-sourcing-your-project)
+2. [I have an open source solution, how can I make it a DPG?](🌍-becoming-a-digital-public-good)
+3. [My project is a DPG, how can I improve it?](🚀-improving-your-project)
 
-## Open data 
+## 🔓 Open Sourcing your Project
+You can refer to the [Open Source Guides](https://opensource.guide/) for an  in-depth approach on how to start an open source project.
 
-[The Open Data Handbook](http://opendatahandbook.org/guide/en/) discusses the legal, social and technical aspects of open data. It can be used by anyone but is especially designed for those seeking to open up data. It discusses the why, what and how of open data – why to go open, what open is, and the how to &#39;open&#39; data.
+You can also check our [Open Source resources](docs/opensource.md). Some _musts_ for an open source project are:
 
-[Publishing Open Government Data](https://www.w3.org/TR/gov-data/) Is designed to help governments open and share their data, the W3C eGov Interest Group has developed the following guidelines. These straightforward steps emphasize standards and methodologies to encourage publication of government data, allowing the public to use this data in new and innovative ways.
+- Source: a public repository or platform where you can host your source code, data or content.
+- Docs: some basic documentation for the community to be able to understand, access or contribute to you project.
+- People: make sure you've talked to your legal department and your developer team.
 
-[The Dublin Core Metadata Initiative](https://dublincore.org/) supports innovation in metadata design and best practices. DCMI is supported by its members and is a project of ASIS&T.
+## 🌍 Becoming a Digital Public Good
 
+In order to successfully become an accredited DPG you must adhere to the [DPG Standard](https://digitalpublicgoods.net/standard/) and [submit an application](https://digitalpublicgoods.net/registry/) for review to the Digital Public Goods Alliance (DPGA).
 
-A Data Protection Impact Assessment (DPIA) is a way for you to systematically and comprehensively analyse your processing and help you identify and minimise data protection risks. DPIAs should consider compliance risks, but also broader risks to the rights and freedoms of individuals, including the potential for any significant social or economic disadvantage. The focus is on the potential for harm – to individuals or to society at large, whether it is physical, material or non-material. To assess the level of risk, a DPIA must consider both the likelihood and the severity of any impact on individuals.
+### Quick Start
 
-Data protection impact assessments are required under GDPR but in general are a good idea to require for any humanitarian technology project using data. Most EU countries will have a web page with resources on how to conduct one. For reference, refer to [the one from the UK](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/) which includes a document template that you just fill out.
+Use our [DPG Eligibility Tool](https://digitalpublicgoods.net/eligibility/) to quickly determine if your digital solution can be nominated as a DPG.
+Once you know if your solution is elegible, read the [Submission Guide](https://digitalpublicgoods.net/submission-guide/) for more information about the DPG application process.
 
-## Open access
-[Guidance on the Implementation of Plan S](https://www.coalition-s.org/guidance-on-the-implementation-of-plan-s/). Plan S aims for full and immediate Open Access to peer-reviewed scholarly publications from research funded by public and private grants. cOAlition S, the coalition of research funders that have committed to implementing Plan S, aims to accelerate the transition to a scholarly publishing system that is characterised by immediate, free online access to, and largely unrestricted use and re-use (full Open Access) of scholarly publications. Bill & Melinda Gates Foundation is one of many organizations that has changed their open access policy effective January 1, 2021 to align with Plan S principles.
+### DPG Wiki
 
-## Content
+For detailed documentation on the evidence that needs to be provided for each type of solution (open software, open data, open content and open AI models) please refer to the 📚 [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki) 📚.
 
-### 
+**We strongly encourage all DPG nominees to use this Wiki while they fill out the [application form](https://app.digitalpublicgoods.net/signup).**
 
+### FAQs & Help
 
+If you have questions, you can visit our [DPG Application FAQs](https://digitalpublicgoods.net/digital-public-goods/faqs/) or ask directly to the [DPG Community](https://github.com/DPGAlliance/dpg-community/discussions/categories/q-a-help-wanted) for guidance.
 
-### General resources for Creative Commons licenses
-- [The Creative Commons Legal Database](https://creativecommons.org/2020/12/03/explore-the-new-cc-legal-database-site/) is a collection of case law and legal scholarship to help our users learn more about legal issues surrounding Creative Commons (CC) licenses and legal tools. This information has been contributed by many dedicated members of the CC Global Network and the CC Legal Team. 
+## 🚀 Improving your Project
 
-- [The Creative Commons licenses](https://creativecommons.org/about/cclicenses/) give everyone from individual creators to large institutions a standardized way to grant the public permission to use their creative work under copyright law. Their website provides basic information and guidelines for picking licenses based on specific user or project goals.
+This collection of resurces can help DPGs, both who are successful or not with their submission, continue to improve their project within the focus areas of the DPG indicators, open source best practices and international development priorities.
 
+The collection covers general topics like accessibility, "do no harm", child online safety, and licensing in addition to specific resources covering:
 
-### Open educational resources
+- Compliance and best practice
+- Open source software
+- Open content
+- Open data
+- Open standards
+- Open AI models
+- Open design resources
 
-- [The Open Education Handbook](https://en.wikibooks.org/wiki/Open_Education_Handbook). &quot;Open Education&quot; is a topic which has become increasingly popular in a variety of contexts. This handbook has been written to provide a useful point of reference for readers with a range of different roles and interests who are interested in learning more about the concept of Open Education and to help them deal with a variety of practical situations.
+## 🙌 Contributing
 
-- Creative Commons Certificate for Educators and Librarians. Unless otherwise noted, all CC Certificate content is licensed under the Creative Commons Attribution 4.0 International license (CC BY). Accessing this CC BY content is not a substitute for enrolling in the official course
-https://certificates.creativecommons.org/about/certificate-resources-cc-by/
+Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
 
-- [Guidelines for open educational resources (OER) in higher education](https://unesdoc.unesco.org/ark:/48223/pf0000213605). These Guidelines outline key issues and make suggestions for integrating OER into higher education. Their purpose is to encourage decision makers in governments and institutions to invest in the systematic production, adaptation and use of OER and to bring them into the mainstream of higher education in order to improve the quality of curricula and teaching and to reduce costs.
+## 📋 Licenses
+Content is released under [Creative Commons Attribution ShareAlike 4.0 International License](LICENSE). For all external and third party content linked here, see each for complete details, including license and permissions.
 
-## Compliance and best practice 
+[![CC BY-SA 4.0][cc-by-sa-image]](LICENSE)
 
-### Security
-[The OWASP Foundation](https://owasp.org/) works to improve the security of software through its community-led open source software projects, hundreds of chapters worldwide, tens of thousands of members, and by hosting local and global conferences.
+> This is a human-readable summary of (and not a substitute for) the license.
+> 
+> You are free to:
+> * **Share** — copy and redistribute the material in any medium or format.
+> * **Adapt** — remix, transform, and build upon the material
+for any purpose, even commercially.
+> 
+> Under the following terms:
+> 
+> * **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+> * **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+>
+> You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+> No warranties are given. The license may not give you all of the permissions necessary for your intended use.
 
-### Legal guides
-[An introducation](https://opensource.guide/legal/) to the legal implications of open source from Open Source Guides and GitHub. 
-
-
-### Accessibility guidelines
-
-The [WCAG 2.0 Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) covers a wide range of recommendations for making web content more accessible. 
-
-
-### Best Practices and Principles
-
-- [The Development Principles](https://digitalprinciples.org/) - https://digitalprinciples.org/ - A set of living guidance intended to help practitioners succeed in applying digital technologies to development programs.
-- [Principles on Identification for Sustainable Development](https://www.idprinciples.org) a set of common Principles fundamental to maximizing the benefits of identification systems for sustainable development while mitigating many of the risks. These Principles are intended to apply to the broad concept of “legal identification” systems: those that register and identify individuals to provide government-recognized credentials (e.g., identifying numbers, cards, digital certificates, etc.) that can be used as proof of identity but also provide an excellent set of considerations and guidance for anyone looking to build infrastructural DPGs that advance the sustainable development goals. 
-- [Age appropriate design: a code of practice for online services](https://ico.org.uk/for-organisations/guide-to-data-protection/ico-codes-of-practice/age-appropriate-design-a-code-of-practice-for-online-services/) -  The new age appropriate design code requires companies to provide default settings which ensure that children can have maximum access to online services whilst minimising data collection and use by default and aims to help companies to comply with the GDPR. To show that companies are compliant with GDPR, and national data protection laws, they will have to demonstrate that they are in line with the Code of Practice.
-
-### Documentation
-Having good documentation in open source projects is a critical feature, a dealbreaker in most cases for others use, adopt and adapt any given project. As a result, it is important to provide ample resources in this area for digital public goods to build great documentation for their projects.
-
-Potential resources include:
-* [The Good Docs Project](https://thegooddocsproject.dev/)
-* [DocBuilds](https://www.docbuilds.com/)
-* Some examples of projects with outstanding documentation, some ideas [from here](https://unicef.github.io/inventory/documentation/hall-of-fame/)
-
-### Do No Harm
-
-The  [COP Guidelines for industry](https://www.itu-cop-guidelines.com/industry?lang=fr) aim  at establishing the foundation for safer and more secure use of Internet-based services and associated technologies for today’s children and future generations.
-
-
-
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[code-of-conduct-shield]: https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg
