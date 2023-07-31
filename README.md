@@ -8,9 +8,9 @@ A single place for all documentation, recources, guides and templates to help di
 
 Welcome, please select the starting point for your journey:
 
-1. [I have a project that I want to make open source.](#🔓-open-sourcing-your-project)
-2. [I have an open source solution, how can I make it a DPG?](🌍-becoming-a-digital-public-good)
-3. [My project is a DPG, how can I improve it?](🚀-improving-your-project)
+1. [I have a project that I want to make open source](#open-sourcing-your-project)
+2. [I have an open source solution, how can I make it a DPG?](#becoming-a-digital-public-good)
+3. [My project is a DPG, how can I improve it?](#improving-your-project)
 
 ## 🔓 Open Sourcing your Project
 You can refer to the [Open Source Guides](https://opensource.guide/) for an  in-depth approach on how to start an open source project.
@@ -34,7 +34,7 @@ Once you know if your solution is elegible, read the [Submission Guide](https://
 
 For detailed documentation on the evidence that needs to be provided for each type of solution (open software, open data, open content and open AI models) please refer to the 📚 [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki) 📚.
 
-**We strongly encourage all DPG nominees to use this Wiki while they fill out the [application form](https://app.digitalpublicgoods.net/signup).**
+> We strongly encourage all DPG nominees to use this Wiki while they fill out the [application form](https://app.digitalpublicgoods.net/signup).
 
 ### FAQs & Help
 
