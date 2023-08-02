@@ -1,0 +1,58 @@
+services:
+  postgres:
+    image: postgres:15.3-alpine3.18
+    environment:
+      - POSTGRES_USER=username
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=ferretdb
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+  ferretdb:
+    image: ghcr.io/ferretdb/ferretdb:1.7.0
+    restart: on-failure
+    ports:
+      - 27017:27017
+      - 8080:8080 # debug port
+    environment:
+      - FERRETDB_TELEMETRY=disable
+      - FERRETDB_POSTGRESQL_URL=postgres://postgres:5432/ferretdb
+    depends_on:
+      - postgres
+  app:
+    image: node:18.16.1-slim
+    restart: unless-stopped
+    volumes:
+      - ./app:/app
+    working_dir: /app
+    user: node
+    command: ["bash", "-c", "echo 'starting app...' && npm install && npm run start"]
+    depends_on:
+      - server
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_OPTIONS=--openssl-legacy-provider
+      - PORT=3000
+      - HOST=0.0.0.0
+  server:
+    image: node:18.16.1-slim
+    restart: unless-stopped
+    volumes:
+      - ./server:/server
+    working_dir: /server
+    user: node
+    environment:
+      - CONNECTION_URI=mongodb://username:password@ferretdb/ferretdb?authMechanism=PLAIN
+    command: ["bash","-c", "echo 'starting server...' && npm install && npm run dev"]
+    depends_on:
+      - postgres
+      - ferretdb
+    ports:
+      - "5050:5050"
+  mongosh:
+    image: mongo:6.0.8-jammy
+    entrypoint: /usr/bin/tail
+    command: ["-f", "/dev/null"]
+
+volumes:
+  pgdata:
