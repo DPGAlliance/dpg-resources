@@ -1,3 +1,7 @@
+<p align="left">
+<img src="https://raw.githubusercontent.com/DPGAlliance/dpg-community/main/assets/dpg-badge.png" width="70" alt="Digital Public Good"><br>
+</p>
+
 # DPG Resources
 
 A single place for all documentation, recources, guides and templates to help digital solutions with their Digital Public Good (DPG) application and for successful DPGs to continue to improve their project within the focus areas of the [DPG Standard](https://digitalpublicgoods.net/standard/).
