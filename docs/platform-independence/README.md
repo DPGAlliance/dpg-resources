@@ -1,8 +1,6 @@
 # Platform independence
 
 > 💡 Resources & FAQs about platform independence requirements for digital public goods.
-> 
-### Frequently Asked Questions (FAQs)
 
 **What does platform independence mean for a DPG?**
 
