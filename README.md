@@ -16,7 +16,7 @@ Welcome, please select the starting point for your journey:
 2. [I have an open source solution, how can I make it a DPG?](#becoming-a-digital-public-good)
 3. [My project is a DPG, how can I improve it?](#improving-your-project)
 
-## 🔓 Open Sourcing your Project
+## 🔓 Open sourcing your project
 You can refer to the [Open Source Guides](https://opensource.guide/) for an  in-depth approach on how to start an open source project.
 
 You can also check our [Open Source resources](docs/opensource.md). Some _musts_ for an open source project are:
@@ -29,7 +29,7 @@ You can also check our [Open Source resources](docs/opensource.md). Some _musts_
 
 In order to successfully become an accredited DPG you must adhere to the [DPG Standard](https://digitalpublicgoods.net/standard/) and [submit an application](https://digitalpublicgoods.net/registry/) for review to the Digital Public Goods Alliance (DPGA).
 
-### Quick Start
+### Quick start
 
 Use our [DPG Eligibility Tool](https://digitalpublicgoods.net/eligibility/) to quickly determine if your digital solution can be nominated as a DPG.
 Once you know if your solution is elegible, read the [Submission Guide](https://digitalpublicgoods.net/submission-guide/) for more information about the DPG application process.
@@ -44,7 +44,7 @@ For detailed documentation on the evidence that needs to be provided for each ty
 
 If you have questions, you can visit our [DPG Application FAQs](https://digitalpublicgoods.net/digital-public-goods/faqs/) or ask directly to the [DPG Community](https://github.com/DPGAlliance/dpg-community/discussions/categories/q-a-help-wanted) for guidance.
 
-## 🚀 Improving your Project
+## 🚀 Improving your project
 
 This collection of resurces can help DPGs, both who are successful or not with their submission, continue to improve their project within the focus areas of the DPG indicators, open source best practices and international development priorities.
 
