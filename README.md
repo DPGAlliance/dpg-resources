@@ -4,9 +4,10 @@
 
 # DPG Resources
 
-A single place for all documentation, recources, guides and templates to help digital solutions with their Digital Public Good (DPG) application and for successful DPGs to continue to improve their project within the focus areas of the [DPG Standard](https://digitalpublicgoods.net/standard/).
+A single place for all documentation, resources, guides and templates to help digital solutions with their Digital Public Good (DPG) application and for successful DPGs to continue to improve their project within the focus areas of the [DPG Standard](https://digitalpublicgoods.net/standard/).
 
 > If you are not yet a recognized digital public good, consider applying! Learn more about it [here](https://digitalpublicgoods.net/digital-public-goods/) and review the [eligibility requirements](https://digitalpublicgoods.net/submission-guide/).
+> Don't forget to check-out [the Wiki](https://github.com/DPGAlliance/dpg-resources/wiki) for support documentation and guides for digital solutions that want to submit an application for digital public good recognition by the DPGA.
 
 ## 🙋 Getting started
 
@@ -19,10 +20,13 @@ Welcome, please select the starting point for your journey:
 ## 🔓 Open sourcing your project
 You can refer to the [Open Source Guides](https://opensource.guide/) for an  in-depth approach on how to start an open source project.
 
+While open source is not a panacea, there are certain circumstances and problems to which it is very well suited and tailoring the format of your project to the goals resources, and environment of your organization can help make your project more successful. We encourage you to review this [Open Source Archetypes framework](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf) to identify and articulate your open source goals. 
+
 You can also check our [Open Source resources](docs/opensource.md). Some _musts_ for an open source project are:
 
 - Source: a public repository or platform where you can host your source code, data or content.
-- Docs: some basic documentation for the community to be able to understand, access or contribute to you project.
+- License: have a license that allows the code/data/content to be freely used, modified, and shared. Learn more about open licensing [here](https://github.com/DPGAlliance/dpg-resources/wiki/2.-Open-Licensing). 
+- Docs: some basic documentation for the community to be able to understand, access or contribute to you project. Learn more about documentation [here](https://github.com/DPGAlliance/dpg-resources/wiki/5.-Documentation). 
 - People: make sure you've talked to your legal department and your developer team.
 
 ## 🌍 Becoming a Digital Public Good
