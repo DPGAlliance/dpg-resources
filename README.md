@@ -4,7 +4,7 @@
 
 # DPG Resources
 
-A knowledge base for all documentation, resources, guides, and templates to help open source digital solutions with their Digital Public Good (DPG) application and for successful DPGs to continue to improve their project within the focus areas of the [DPG Standard](https://digitalpublicgoods.net/standard).
+The official knowledge base for all documentation, resources, guides, and templates to help open source digital solutions with their Digital Public Good (DPG) application and for successful DPGs to continue to improve their project within the focus areas of the [DPG Standard](https://digitalpublicgoods.net/standard).
 
 [![CC BY-SA 4.0 Badge][cc-by-sa-shield]](LICENSE) [![Contributor Covenant Badge][code-of-conduct-shield]](https://contributor-covenant.org) [![DPG Wiki Badge](https://img.shields.io/badge/DPG-Wiki-82dbe1?logo=github)](https://github.com/DPGAlliance/dpg-resources/wiki) [![DPG Wiki Badge](https://img.shields.io/badge/DPG-Community-3333ab?logo=github)](https://github.com/DPGAlliance/dpg-community)
 

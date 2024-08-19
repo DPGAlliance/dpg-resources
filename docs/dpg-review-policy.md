@@ -5,7 +5,7 @@ This document lays out the policies that govern the review process of DPG applic
 ## Nomination Policy
 
 - Owners of digital solutions who wish to get their solution recognized as a Digital Public Good (DPG) must nominate their solution by submitting a DPG application (application).
-- An application can be created and submitted through the DPGA webapp at [app.digitalpublicgoods.net](app.digitalpublicgoods.net).
+- An application can be created and submitted through the DPGA nomination portal at [app.digitalpublicgoods.net](app.digitalpublicgoods.net).
 - The set of questions that are asked as part of the application are transparently available [here](https://github.com/DPGAlliance/DPG-Standard/blob/main/standard-questions.md).
 - Applications can only be submitted by an authorised representative of the digital solution (the applicant).
 - We collect the name and email of the applicant. Email verification is required to submit an application.
@@ -79,14 +79,14 @@ This document lays out the policies that govern the review process of DPG applic
 ## DPG Status Renewal Policy
 
 - DPG status is valid for one year from the date of completion of review.
-- To ensure that a DPG continues to be in compliance with the latest DPG Standard, they must submit a Renewal application.
+- To ensure that a DPG continues to comply with the latest DPG Standard, they must submit a Renewal application.
 - Renewal applications can be created when 45 days or less are remaining before the expiry of DPG status. Renewal applications can also be created after the DPG status has expired.
-- Renewal applications must be created & submitted via the DPGA webapp.
-- Upon a re-review, if the solution is found to be in compliance with the latest DPG Standard, it will stay listed on the DPG Registry.
+- Renewal applications must be created and submitted via the DPGA nomination portal.
+- Upon a re-review, if the solution is found to comply with the latest DPG Standard, it will stay listed on the DPG Registry.
 
 ## Spam Policy
 
-Any application that is deemed nonsensical, malicious, irrelevant, or in violation of our [Code of Conduct](https://github.com/DPGAlliance/DPG-Standard/blob/main/CODE_OF_CONDUCT.md) will not be reviewed and will be removed immediately.
+Any application that is deemed nonsensical, malicious, irrelevant, or in violation of our [Code of Conduct](https://github.com/DPGAlliance/.github/blob/main/CODE_OF_CONDUCT.md) will not be reviewed and will be removed immediately.
 
 ## DPG Status Removal Policy 
 
