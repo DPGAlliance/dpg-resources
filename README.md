@@ -14,7 +14,7 @@ A knowledge base for all documentation, resources, guides, and templates to help
 
 > [!TIP]
 >
-> If you are not yet a recognized digital public good, you should consider applying! You can learn more about DPGs [here](https://digitalpublicgoods.net/digital-public-goods), review the [eligibility requirements](https://digitalpublicgoods.net/submission-guide/), or explore the registry of [existing DPGs](https://digitalpublicgoods.net/registry). You should also check-out the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki) for the application support documentation.
+> If you are not yet a recognized digital public good, you should consider applying! You can learn more about DPGs [here](https://digitalpublicgoods.net/digital-public-goods), review the [eligibility requirements](https://digitalpublicgoods.net/submission-guide/), or explore the registry of [existing DPGs](https://digitalpublicgoods.net/registry). You should also check out the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki) for the application support documentation.
 
 ---
 
@@ -43,13 +43,13 @@ To get started, use our [DPG Eligibility Tool](https://digitalpublicgoods.net/el
 
 > [!IMPORTANT]
 >
-> For detailed documentation on the evidence that needs to be provided for each type of digital public good, please refer to the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki). We strongly encourage all DPG nominees to use this Wiki while they fill out the [application form](https://app.digitalpublicgoods.net/signup).
+> For detailed documentation on the evidence that needs to be provided for each type of digital public good, please refer to the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki). We strongly encourage all DPG applicants to use this Wiki while they fill out the [application form](https://app.digitalpublicgoods.net/signup).
 
 If you have any questions, you can visit our [DPG Application FAQs](https://digitalpublicgoods.net/digital-public-goods/faqs) or ask directly to the [DPG Community](https://github.com/DPGAlliance/dpg-community/discussions/categories/q-a-help-wanted) for guidance; we're available to help.
 
 ## 🚀 Improving Your Project
 
-We are also curating a [collection of resources](./docs/) alongside the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki) that can help potential and approved DPGs improve their project within the focus areas of the DPG Standard, open source best practices, open source standards, documentation, international development priorities, etc.
+We are curating a [collection of resources](./docs/) alongside the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki) that will help potential and approved DPGs improve their project within the focus areas of the DPG Standard, open source best practices, open source standards, documentation, international development priorities, etc. You should check them out to learn different ways you can improve your project, including links to helpful resources.
 
 ## 🙌 Contributing
 
@@ -57,7 +57,7 @@ Thanks for wanting to help! Kindly check out our [contributing guidelines](/CONT
 
 ## 📋 Licenses
 
-The content in this repository is released under [Creative Commons Attribution ShareAlike 4.0 International License](LICENSE). For all external and third-party content linked here, see each for complete details, including license and permissions.
+The content in this repository is released under the [Creative Commons Attribution ShareAlike 4.0 International License](LICENSE). For all external and third-party content linked here, see each for complete details, including license and permissions.
 
 [![CC BY-SA 4.0][cc-by-sa-image]](LICENSE)
 

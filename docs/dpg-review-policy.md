@@ -10,7 +10,7 @@ This document lays out the policies that govern the review process of DPG applic
 - Applications can only be submitted by an authorised representative of the digital solution (the applicant).
 - We collect the name and email of the applicant. Email verification is required to submit an application.
 - Each application is assigned a unique application ID.
-- Content of each submitted application is made publicly available and licensed as such via Unlicense.
+- The content of each submitted application is made publicly available and licensed as such via Unlicense.
 - The submitted applications can be accessed via their public URLs (format: `app.digitalpublicgoods.net/a/[ID]`).
 
 ## Application Review Policy
@@ -18,13 +18,13 @@ This document lays out the policies that govern the review process of DPG applic
 ![application_review_policy](https://user-images.githubusercontent.com/86725474/220541491-d6dbe488-c26a-4135-ab7c-d52039c23217.jpeg)
 
 - Each application is assessed against the latest version of the [DPG Standard](https://github.com/DPGAlliance/DPG-Standard/blob/main/standard.md) at the time of creation of the application.
-- Application must meet all the requirements of the DPG Standard to become a DPG.
+- The application must meet all the requirements of the DPG Standard to become a DPG.
 - If the application fails to meet one or more requirements, it will be declared as "ineligible to be recognized as a DPG at this time."
 - Every review results in a binary decision: **DPG** or **Ineligible**.
 - The final determination on whether a solution adheres to the DPG Standard will be made by the DPGA Secretariat’s Technical Coordinator.
 - A digital solution recognized as a DPG will be listed on the public [DPG Registry](https://digitalpublicgoods.net/registry/) and their listing will also be made available to other databases via an API.
 
-## Roles and Responsibilities: 
+## Roles and Responsibilities:
 
 ### Internal Reviewers / L1
 
@@ -52,7 +52,7 @@ This document lays out the policies that govern the review process of DPG applic
 - They usually have fixed days or hours where they contribute their time to pushing applications in their pipeline (for example, two full days or four half days) 
 - They have limited access to certain applications. 
 
-### Expert Advisors:
+### Expert Advisors
 
 - They are external to the DPGA team but may be part of the larger DPGA member association. 
 - They do not attend any meetings with the rest of the DPGA review team. 
@@ -97,9 +97,6 @@ Any application that is deemed nonsensical, malicious, irrelevant, or in violati
   3. Convene a meeting with the stakeholder who has raised concerns to get a more detailed explanation or additional information. 
 - Please note that the final decision for DPG status validation rests with the DPG review team.
   
-## The Process for Community Members to Engage with the DPG Review Team
+## Community Engagement with the DPG Review Team
 
-- The status of the review of an application is transparently visible on its public URL (app.digitalpublicgoods.net/a/[ID]).
-- To engage in the public discourse on a submitted application, please interact with us by commenting on the relevant PR on [this public GitHub repo](https://github.com/DPGAlliance/publicgoods-candidates/pulls).
-- The comment should answer “Why does a certain DPG not meet the DPG standard criteria?”.
-- Alternately, to raise disagreements with a review decision or any other issues related to reviews, please write to us at support@digitalpublicgoods.net.
+The status of the review of an application is transparently visible on its public URL (`app.digitalpublicgoods.net/a/[ID]`). To raise disagreements with a review decision or any other issues related to reviews, please write to us at support@digitalpublicgoods.net.
