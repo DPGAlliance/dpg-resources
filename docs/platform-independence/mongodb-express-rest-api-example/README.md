@@ -14,9 +14,7 @@
 4. Execute the `docker compose up` command.
 5. Wait (watch the logs).
 
-The system will download the necessary Docker images, execute `npm install` and run the development environment.
-
-After the system starts, you should be able to access the application at http://localhost:3000.
+The system will download the necessary Docker images, execute `npm install` and run the development environment. After the system starts, you should be able to access the application at http://localhost:3000.
 
 ## Demo
 

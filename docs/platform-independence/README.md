@@ -1,6 +1,6 @@
 # Platform Independence Guide
 
-This guide contains more resources and frequently asked questions about the Platform Independence requirements for digital public goods.
+This guide contains more resources and frequently asked questions about the [Platform Independence requirements](https://github.com/DPGAlliance/dpg-resources/wiki/4.-Platform-Independence) for digital public goods.
 
 ---
 
