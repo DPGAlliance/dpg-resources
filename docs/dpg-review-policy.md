@@ -4,7 +4,7 @@ This document lays out the policies that govern the review process of DPG applic
 
 ## Nomination Policy
 
-- Owners of digital solutions who wish to get their solution recognized as a Digital Public Good (DPG) must nominate their solution by submitting a DPG application (application).
+- Owners of digital solutions who wish to get their solution recognized as a Digital Public Good (DPG) must nominate their solution by submitting a DPG application.
 - An application can be created and submitted through the DPGA nomination portal at [app.digitalpublicgoods.net](app.digitalpublicgoods.net).
 - The set of questions that are asked as part of the application are transparently available [here](https://github.com/DPGAlliance/DPG-Standard/blob/main/standard-questions.md).
 - Applications can only be submitted by an authorised representative of the digital solution (the applicant).
@@ -15,11 +15,12 @@ This document lays out the policies that govern the review process of DPG applic
 
 ## Application Review Policy
 
-![application_review_policy](https://user-images.githubusercontent.com/86725474/220541491-d6dbe488-c26a-4135-ab7c-d52039c23217.jpeg)
+![DPG Application Review Policy](./assets/dpg-review-flow.png)
 
 - Each application is assessed against the latest version of the [DPG Standard](https://github.com/DPGAlliance/DPG-Standard/blob/main/standard.md) at the time of creation of the application.
-- The application must meet all the requirements of the DPG Standard to become a DPG.
-- If the application fails to meet one or more requirements, it will be declared as "ineligible to be recognized as a DPG at this time."
+- The application must meet all the requirements of the DPG Standard to become a **DPG**.
+- If the application fails to meet one or more requirements, it will be declared as **Ineligible**.
+- If clarifications are requested and the applicant fails to respond within the time allotted, the application will be automatically declared **Ineligible**.
 - Every review results in a binary decision: **DPG** or **Ineligible**.
 - The final determination on whether a solution adheres to the DPG Standard will be made by the DPGA Secretariat’s Technical Coordinator.
 - A digital solution recognized as a DPG will be listed on the public [DPG Registry](https://digitalpublicgoods.net/registry/) and their listing will also be made available to other databases via an API.
