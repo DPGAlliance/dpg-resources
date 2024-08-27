@@ -73,7 +73,7 @@ All versions released after October 16, 2018, including patch fixes for prior ve
 
 If your solution depends directly on MongoDB, to comply with platform independence, please provide an open alternative to this dependency (e.g., FerretDB [Apache License 2.0], PostgreSQL [PostgreSQL License], CouchDB [Apache License 2.0], etc.).
 
-We recommend looking at [FerretDB](https://ferretdb.io) and its migration tools for simpler databases that do not require advanced features offered by MongoDB, as it is compatible with MongoDB drivers and popular MongoDB tools.
+We recommend looking at [FerretDB](https://ferretdb.io) and its migration tools for simpler databases that do not require advanced features offered by MongoDB, as it is compatible with MongoDB drivers and popular MongoDB tools. We have an [example code](./mongodb-express-rest-api-example/) for this migration you can take a look at too.
 
 _Please note that older versions of MongoDB under AGPL 3.0 license are not actively supported and may present real security concerns, so this option is not recommended and could potentially fail indicators 8 "Adherence to Best Practices" and 9A "Data Privacy & Security" of the DPG Standard._
 </details>
