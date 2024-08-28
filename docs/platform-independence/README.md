@@ -1,6 +1,6 @@
 # Platform Independence Guide
 
-This guide contains more resources and frequently asked questions about the [Platform Independence requirements](https://github.com/DPGAlliance/dpg-resources/wiki/4.-Platform-Independence) for digital public goods.
+This guide contains more resources and frequently asked questions about the [Platform Independence](https://github.com/DPGAlliance/dpg-resources/wiki/4.-Platform-Independence) requirement for digital public goods.
 
 ---
 
@@ -36,7 +36,7 @@ Any **closed-source or proprietary dependencies** and components that the soluti
 - Operating systems and runtime environments.
 - Other services and utilities.
 
-_* Deployment, testing, validation, CI/CD, containerization, and similar tools are not considered or required to be open source for platform independence._
+*_Deployment, testing, validation, CI/CD, containerization, and similar tools are not considered or required to be open source for platform independence._
 </details>
 
 <details>
@@ -63,26 +63,46 @@ The solution can take one of the following paths:
 
 ### Examples of Common Dependencies
 
-Here you can find some examples of common dependencies that are closed-source or [source-available](https://en.wikipedia.org/wiki/Source-available_software#:~:text=Source%2Davailable%20software%20is%20software,to%20be%20called%20open%2Dsource.), but not under an approved OSI license.
+Here you can find some examples of common dependencies that are closed-source or [source-available](https://en.wikipedia.org/wiki/Source-available_software), but not under an approved OSI license.
 
-### MongoDB
+<details>
+<summary><b>MongoDB</b></summary>
+<br />
 
-All versions released after October 16, 2018, including patch fixes for prior versions, use a [Server Side Public License](https://mongodb.com/licensing/server-side-public-license) (SSPL), which is not approved or compatible with [OSI's definition](https://opensource.org/osd/) of open source.
+All versions released after October 16, 2018, including patch fixes for prior versions, use a [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html) (SSPL), which is not approved or compatible with [OSI's definition](https://opensource.org/osd/) of open source.
 
-If your solution depends directly on MongoDB, to comply with platform independence, please provide an open alternative to this dependency. For example;  FerretDB (Apache License 2.0), PostgreSQL (PostgreSQL License), CouchDB (Apache License 2.0), etc.
+If your solution depends directly on MongoDB, to comply with platform independence, please provide an open alternative to this dependency (e.g., FerretDB [Apache License 2.0], PostgreSQL [PostgreSQL License], CouchDB [Apache License 2.0], etc.).
 
-We recommend looking at [FerretDB](https://ferretdb.io) and its migration tools for simpler databases that do not require advanced features offered by MongoDB, as it is compatible with MongoDB drivers and popular MongoDB tools.
+We recommend looking at [FerretDB](https://ferretdb.io) and its migration tools for simpler databases that do not require advanced features offered by MongoDB, as it is compatible with MongoDB drivers and popular MongoDB tools. We have a [migration example code](./mongodb-express-rest-api-example/) you can take a look and you can also get inspiration from the [migration documentation](https://github.com/opengovsg/FormSG/tree/develop?tab=readme-ov-file#database-alternatives) of approved DPGs.
 
-_Please note that older versions of MongoDB under AGPL 3.0 license are not actively supported and may present real security concerns, so this option is not recommended and could potentially fail indicators 8 “Adherence to Best Practices” and 9A “Data Privacy & Security” of the DPG Standard._
+_Please note that older versions of MongoDB under AGPL 3.0 license are not actively supported and may present real security concerns, so this option is not recommended and could potentially fail indicators 8 "Adherence to Best Practices" and 9A "Data Privacy & Security" of the DPG Standard._
+</details>
 
-### ElasticSearch and Kibana
+<details>
+<summary><b>ElasticSearch and Kibana</b></summary>
+<br />
 
-As of version 7.11, Elasticsearch and Kibana have moved from an Apache 2.0 license to a [dual license](https://elastic.co/pricing/faq/licensing) under the Elastic License and Server Side Public License (SSPL), which are not approved or compatible with [OSI's definition](https://opensource.org/osd) of open source.
+Starting from version 7.11, Elasticsearch and Kibana have moved from an Apache 2.0 license to a [dual license](https://elastic.co/pricing/faq/licensing) under the [Elastic License](https://spdx.org/licenses/Elastic-2.0.html) and [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html) (SSPL), which are not approved or compatible with [OSI's definition](https://opensource.org/osd) of open source.
 
-If your solution depends directly on ElasticSearch, to comply with platform independence, please provide an open alternative to this dependency. For example; OpenSearch (Apache License 2.0), Apache Solr (Apache License 2.0), InfluxDB (MIT License), etc.
+If your solution depends directly on ElasticSearch, to comply with platform independence, please provide an open alternative to this dependency (e.g., OpenSearch [Apache License 2.0], Apache Solr [Apache License 2.0], InfluxDB [MIT License], etc.).
+</details>
 
-### Firebase
+<details>
+<summary><b>Firebase</b></summary>
+<br />
 
 While some components of Firebase are open source, the majority of its services and features are proprietary and offered as part of Google's cloud offerings. The open-source components of Firebase are typically related to client-side libraries and SDKs. Core infrastructure and many of the backend services provided by Firebase, such as Firestore, Firebase Authentication, Cloud Messaging (FCM), and Cloud Storage, are not open-source and remain under Google's proprietary control.
 
-If your solution depends directly on Firebase, to comply with platform independence, please provide an open alternative to this dependency. For example; Supabase (Apache License 2.0), etc.
+If your solution depends directly on Firebase, to comply with platform independence, please provide an open alternative to this dependency (e.g., Supabase [Apache License 2.0], Appwrite [BSD 3-Clause], etc.).
+</details>
+
+<details>
+<summary><b>Redis</b></summary>
+<br />
+
+Starting from Redis v7.4 and all future releases, Redis is moving away from the BSD 3-Clause License to a [dual-license](https://redis.io/blog/redis-adopts-dual-source-available-licensing) model, offering developers the choice between the [Redis Source Available License](https://redis.com/legal/rsalv2-agreement/) version 2 (RSALv2) or the [Server-Side Public License](https://spdx.org/licenses/SSPL-1.0.html) version 1 (SSPLv1), which is not approved or compatible with [OSI's definition](https://opensource.org/osd/) of open source.
+
+If your solution depends directly on Redis, to comply with platform independence, please provide an open alternative to this dependency (e.g., Redict [LGPL-3.0-only], Valkey [BSD 3-Clause], etc.).
+</details>
+
+

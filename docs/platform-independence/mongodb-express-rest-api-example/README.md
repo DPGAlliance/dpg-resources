@@ -1,6 +1,6 @@
 # FerretDB as MongoDB Alternative
 
-[FerretDB](https://www.ferretdb.io/) is an open source alternative to MongoDB using PostgreSQL as a backing database. This repository is a copy of the[mongodb-express-rest-api-example](https://github.com/mongodb-developer/mongodb-express-rest-api-example), pre-configured to use FerretDB instead of MongoDB.
+[FerretDB](https://www.ferretdb.io/) is an open source alternative to MongoDB using PostgreSQL as a backing database. This repository is a copy of the [mongodb-express-rest-api-example](https://github.com/mongodb-developer/mongodb-express-rest-api-example), pre-configured to use FerretDB instead of MongoDB.
 
 > [!NOTE]
 >
