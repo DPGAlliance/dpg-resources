@@ -37,7 +37,7 @@ You can refer to the [Open Source Guides](https://opensource.guide/starting-a-pr
 
 ## 🌍 Becoming a Digital Public Good
 
-Digital public goods are **open-source software**, **open data**, **open AI systems**, and **open content collections** that adhere to privacy and other applicable best practices, do no harm, and are of high relevance for the attainment of the United Nations 2030 Sustainable Development Goals (SDGs). To successfully become an accredited digital public good (DPG) you must adhere to the [DPG Standard](https://digitalpublicgoods.net/standard) and [submit an application](http://app.digitalpublicgoods.net/signup) for review to the [Digital Public Goods Alliance](https://digitalpublicgoods.net/governance).
+Digital public goods are **open software**, **open data**, **open AI systems**, and **open content collections** that adhere to privacy and other applicable best practices, do no harm, and are of high relevance for the attainment of the United Nations 2030 Sustainable Development Goals (SDGs). To successfully become an accredited digital public good (DPG) you must adhere to the [DPG Standard](https://digitalpublicgoods.net/standard) and [submit an application](http://app.digitalpublicgoods.net/signup) for review to the [Digital Public Goods Alliance](https://digitalpublicgoods.net/governance).
 
 To get started, use our [DPG Eligibility Tool](https://digitalpublicgoods.net/eligibility) to quickly determine if your digital solution can be nominated as a DPG. Once you know if your solution is eligible, read the [Submission Guide](https://digitalpublicgoods.net/submission-guide) for more information about the DPG application process.
 
@@ -49,7 +49,7 @@ If you have any questions, you can visit our [DPG Application FAQs](https://digi
 
 ## 🚀 Improving Your Project
 
-We are curating a [collection of resources](./docs/) alongside the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki) that will help potential and approved DPGs improve their project within the focus areas of the DPG Standard, open source best practices, open source standards, documentation, international development priorities, etc. You should check them out to learn different ways you can improve your project, including links to helpful resources.
+We are curating a [collection of extra resources](./docs/extra-resources.md) alongside the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki) that will help potential and approved DPGs improve their project within the focus areas of the DPG Standard, open source best practices, open source standards, international development priorities, etc. You should check them out to learn different ways you can improve your project, including links to helpful resources.
 
 ## 🙌 Contributing
 
