@@ -66,7 +66,6 @@ This document contains a list of **Best Practices** recommendation for the [Open
 <br />
 
 - [FAIR Principles](https://go-fair.org/fair-principles)
-- [Recommendations for Better Sharing of Climate Data](https://creativecommons.org/2024/01/29/recommended-best-practices-for-better-sharing-of-climate-data)
 - [The Best Practices in the Use of ICTs in Development](https://ictworks.org/the-best-practices-in-the-use-of-icts-in-development-are)
 
 </details>
