@@ -174,6 +174,7 @@ This document contains a list of **Best Practices** recommendation for the [Open
 
 ## Open AI Systems
 
+- [Principles for Digital Development](https://digitalprinciples.org/principle/use-open-standards-open-data-open-source-and-open-innovation/)
 - [Microsoft Responsible AI Standard](https://www.microsoft.com/en-us/ai/principles-and-approach)
 - [ONNX (Open Neural Network Exchange)](https://onnx.ai)
 - [ISO/IEC JTC 1/SC 42 on Artificial intelligence](https://iso.org/committee/6794475.html)
@@ -181,19 +182,19 @@ This document contains a list of **Best Practices** recommendation for the [Open
 
 ## Open Data
 
+- [Principles for Digital Development](https://digitalprinciples.org/principle/use-open-standards-open-data-open-source-and-open-innovation/)
 - [Assess Open Standards for Data](https://open-data-institute.gitbook.io/data-landscape-playbook/play-four-describe-the-data-infrastructure/open-standards-for-data)
 - [Open Data Certificate](https://certificates.theodi.org/en)
 - [Oasis Open Data Standards](https://oasislmf.org/open-data-standards)
 - [Open Standards for Data](https://standards.theodi.org/introduction/what-are-open-standards-for-data/)
-- [Principles for Digital Development](https://digitalprinciples.org/principle/use-open-standards-open-data-open-source-and-open-innovation/)
-- [Standards and Applications](https://masaar.net/en/what-do-you-know-about-open-data-standards-and-applications/)
-- [The Data Standards Directory](https://datastandards.directory/)
-- [The Open Standards Guide Book](https://github.com/theodi/open-standards-guidebook)
+- [Open Data Standards and Applications](https://masaar.net/en/what-do-you-know-about-open-data-standards-and-applications/)
+- [Open Data Standards Directory](https://datastandards.directory/)
+- [Open Standards for Data Guide Book](https://github.com/theodi/open-standards-guidebook)
 
 ## Open Content
 
-- [Defining the "Open" in Open Content](https://opencontent.org/definition/) 
-- [Use Open Standards, Open Data, Open Source, and Open Innovation](https://digitalprinciples.org/principle/use-open-standards-open-data-open-source-and-open-innovation/) 
+- [Principles for Digital Development](https://digitalprinciples.org/principle/use-open-standards-open-data-open-source-and-open-innovation/)
+- [Defining the “Open” in Open Content and Open Educational Resources](https://opencontent.org/definition/) 
 - [What are Open Standards?](https://opensource.com/resources/what-are-open-standards)
 
 
