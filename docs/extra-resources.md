@@ -1,8 +1,8 @@
 # DPG Resources 
 
-An open approach to digital development can help to increase collaboration in the digital development community and avoid duplicating work that has already been done. Programs can maximize their resources — and ultimately their impact — through open standards, open data, open source technologies, and open innovation. By taking advantage of existing investments when you are able, you can apply finite digital development resources toward creating global goods.
+An open approach to digital development can help to increase collaboration in the digital development community and avoid duplicating work that has already been done. Programs can maximize their resources and ultimately their impact through open standards, open data, open source technologies, and open innovation. By taking advantage of existing investments when you are able, you can apply finite digital development resources toward creating global goods.
 
-Below is a growing collection of helpful resources for different digital public goods solution types. Kindly check out the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki) for official requirements, resources, and best practices for each of the DPG Standard indicators.
+Below is a growing collection of general helpful resources for different digital public goods solution types. Kindly check out the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki) for official requirements, resources, and best practices for each of the DPG Standard indicators.
 
 ---
 
