@@ -21,6 +21,7 @@ This document contains a list of **Best Practices** recommendation for the [Open
 
 - [OpenAPI](https://openapis.org)
 - [GraphQL](https://graphql.org)
+- [Matrix Specification](https://spec.matrix.org/latest)
 
 </details>
 
@@ -33,6 +34,7 @@ This document contains a list of **Best Practices** recommendation for the [Open
 - JWT (JSON Web Tokens)
 - SAML (Security Assertion Markup Language)
 - XACML 3.0 (eXtensible Access Control Markup Language)
+- eIDAS (Electronic IDentification, Authentication and Trust Services")
 
 </details>
 
@@ -169,6 +171,9 @@ This document contains a list of **Best Practices** recommendation for the [Open
 - GTFS (General Transit Feed Specification)
 - BODS (Beneficial Ownership Data Standard)
 - ISO 37002:2021 (Whistleblowing Management Systems — Guidelines)
+- GTFS (General Transit Feed Specification)
+- IPFS (InterPlanetary File System)
+- Nostr Protocol
 
 </details>
 
@@ -190,6 +195,8 @@ This document contains a list of **Best Practices** recommendation for the [Open
 - [Open Data Standards and Applications](https://masaar.net/en/what-do-you-know-about-open-data-standards-and-applications/)
 - [Open Data Standards Directory](https://datastandards.directory/)
 - [Open Standards for Data Guide Book](https://github.com/theodi/open-standards-guidebook)
+- [(OCDS) The Open Contracting Data Standard](https://open-contracting.org/data-standard)
+- [Frictionless Data](https://frictionlessdata.io/introduction)
 
 ## Open Content
 

@@ -156,6 +156,7 @@ This document contains a list of **Best Practices** recommendation for the [Open
 - [The 8 Principles of Open Government Data](https://opengovdata.org)
 - [U.S. Open Data Toolkit](https://usopendatatoolkit.org/best-practices-1)
 - [What is Open Data? - Practical Guide](https://opendatasoft.com/en/what-is-open-data-practical-guide)
+- [Open Contracting for Infrastructure Data Standards Toolkit](https://standard.open-contracting.org/infrastructure/latest/en)
 
 ## Open Content
 
