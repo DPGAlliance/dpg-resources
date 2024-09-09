@@ -174,6 +174,7 @@ This document contains a list of **Best Practices** recommendation for the [Open
 - GTFS (General Transit Feed Specification)
 - IPFS (InterPlanetary File System)
 - Nostr Protocol
+- Beckn Protocol
 
 </details>
 
@@ -197,6 +198,7 @@ This document contains a list of **Best Practices** recommendation for the [Open
 - [Open Standards for Data Guide Book](https://github.com/theodi/open-standards-guidebook)
 - [(OCDS) The Open Contracting Data Standard](https://open-contracting.org/data-standard)
 - [Frictionless Data](https://frictionlessdata.io/introduction)
+- [(BODS) Beneficial Ownership Data Standard](https://standard.openownership.org)
 
 ## Open Content
 
