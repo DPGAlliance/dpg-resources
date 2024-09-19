@@ -16,7 +16,7 @@ A "Non-Derivatives" restriction in a Creative Commons license, often denoted as 
 
 ND licenses directly conflict with the open source principles as free redistribution is at the core of what a digital public good is. For this reason, we don’t allow any ND-restricting licenses.
 
-**Examples of content DPGs that allow derivatives**
+Here are **examples of open content DPGs that allow derivatives**:
 
 - [UNIDO Industrial Analytics Platform](https://iap.unido.org) (CC-BY-SA-4.0) - A knowledge platform that advances evidence-based policy dialogue, fosters thought leadership and connects global communities to share knowledge and practice in the field of industrial development.  
 - [NotesMaster](https://notesmaster.com) (CC-BY-SA-4.0) - Provides preconfigured content collection with local curricula, so the trained teachers can create digital lessons online in NotesMaster, for students to then access. The lessons can be accessed and remixed by teachers from any other country to suit their local curricula.  
