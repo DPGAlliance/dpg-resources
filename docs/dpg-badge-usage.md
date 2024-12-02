@@ -6,11 +6,11 @@ To show credibility, you can display your DPG Badge on key areas like:
 - The top section of your source host README.md file or default page.
 - The bottom section of your source host README.md file or default page.
 
-Below are examples of how you can use the DPG Badge on the entry README file of your source hosting platform to show credibility and link users to your DPG profile page to verify your DPG status.
-
 > [!TIP]
 >
-> With platforms like shields.io, you can add different static and dynamic badges to your repository's markdown README file to show different information like project status, code status, contributors status, usage status, and other key metric you want to highlight. If you don't use this yet, you should check it out.
+> With platforms like [shields.io](https://shields.io?ref=dpga), you can add different static and dynamic badges to your repository's markdown README file to show different information like project status, code status, contributors status, usage status, and other key metric you want to highlight. If you don't use this yet, you should check it out.
+
+Below are examples of how you can use the DPG Badge on the entry README file of your source hosting platform to show credibility and link users to your DPG profile page to verify your DPG status.
 
 ## Header
 
@@ -40,11 +40,7 @@ Alternatively, you can include the year you became a DPG to show your experience
 
 > [!IMPORTANT]
 >
-> Please ensure to replace `dpg-slug` with your DPG's profile page's URL slug (which you can find on the DPG Registry).
-
-> [!TIP]
->
-> We're also working to add `dpg` to the list of icons, so you can replace `github` in the source URL to `dpg`. We will update this guide once that is done. If you have any questions or need help, please let us know.
+> Please ensure to replace `dpg-slug` with your DPG's profile page's URL slug (which you can find on the [DPG Registry](https://digitalpublicgoods.net/registry)).
 
 ## Footer
 
