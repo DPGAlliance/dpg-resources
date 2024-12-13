@@ -12,7 +12,7 @@ To show credibility, you can display your DPG Badge on key areas like:
 
 Below are examples of how you can use the DPG Badge on the entry README file of your source hosting platform to show credibility and link users to your DPG profile page to verify your DPG status.
 
-## Header
+## Header Section
 
 In addition to any other badge you may have at the top of your README, you can add another using the following markdown or HTML code:
 
@@ -42,7 +42,7 @@ Alternatively, you can include the year you became a DPG to show your experience
 >
 > Please ensure to replace `dpg-slug` in the URL with your DPG's profile page's URL slug (which you can find on the [DPG Registry](https://digitalpublicgoods.net/registry)).
 
-## Footer
+## Footer Section
 
 You can add a centralized badge to the footer of your README file to show your DPG status and link to your DPG profile page. This badge can be added to the footer of your README file or any other documentation page you have. Here is an HTML example of how you can add the badge to the footer of your README file:
 
