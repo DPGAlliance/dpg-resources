@@ -1,10 +1,5 @@
 # DPG Badge Usage
 
-| DPG Badge | Usage |
-| --- | --- |
-| ![](./assets/dpg-badge.png) | Main badge you should use everywhere on your website. |
-| ![](./assets/dpg-badge-w.png) | Alternative version you should only use for very dark backgrounds where the first will not work well. |
-
 To show credibility, you can display your DPG Badge on key areas like:
 - The hero/navigation section of your website or documentation pages.
 - The footer section of your website or documentation pages.
