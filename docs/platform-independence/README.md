@@ -105,4 +105,15 @@ Starting from Redis v7.4 and all future releases, Redis is moving away from the 
 If your solution depends directly on Redis, to comply with platform independence, please provide an open alternative to this dependency (e.g., Redict [LGPL-3.0-only], Valkey [BSD 3-Clause], etc.).
 </details>
 
+<details>
+  
+<summary><b>Mapbox GL</b></summary>
+<br />
+
+In December 2020, Mapbox GL JS moved from 3-Clause BSD license to proprietary Mapbox Terms of Service.
+
+</details>
+
+
+
 
