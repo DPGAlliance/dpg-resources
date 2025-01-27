@@ -81,8 +81,10 @@ _Please note that older versions of MongoDB under AGPL 3.0 license are not activ
 <details>
 <summary><b>ElasticSearch and Kibana</b></summary>
 <br />
+  
+<b>Update</b>: ElasticSearch 8.16+ will now use the OSI-approved AGPL-3.0 version. 
 
-Starting from version 7.11, Elasticsearch and Kibana have moved from an Apache 2.0 license to a [dual license](https://elastic.co/pricing/faq/licensing) under the [Elastic License](https://spdx.org/licenses/Elastic-2.0.html) and [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html) (SSPL), which are not approved or compatible with [OSI's definition](https://opensource.org/osd) of open source.
+Versions 7.11 to 8.15, Elasticsearch and Kibana have moved from an Apache 2.0 license to a [dual license](https://elastic.co/pricing/faq/licensing) under the [Elastic License](https://spdx.org/licenses/Elastic-2.0.html) and [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html) (SSPL), which are not approved or compatible with [OSI's definition](https://opensource.org/osd) of open source.
 
 If your solution depends directly on ElasticSearch, to comply with platform independence, please provide an open alternative to this dependency (e.g., OpenSearch [Apache License 2.0], Apache Solr [Apache License 2.0], InfluxDB [MIT License], etc.).
 </details>
