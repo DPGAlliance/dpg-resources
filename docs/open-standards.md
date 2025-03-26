@@ -65,6 +65,7 @@ This document contains a list of **Best Practices** recommendation for the [Open
 - Geographic Information System (GIS)
 - GeoPackage (Geospatial Package)
 - GeoTIFF (Georeferenced Tagged Image File Format)
+- [Flow Results Standard](https://flowinterop.org/#standards)
 
 </details>
 
@@ -175,6 +176,7 @@ This document contains a list of **Best Practices** recommendation for the [Open
 - IPFS (InterPlanetary File System)
 - Nostr Protocol
 - Beckn Protocol
+- IATI Standard (International Aid Transparency Initiative)
 
 </details>
 
@@ -205,5 +207,6 @@ This document contains a list of **Best Practices** recommendation for the [Open
 - [Principles for Digital Development](https://digitalprinciples.org/principle/use-open-standards-open-data-open-source-and-open-innovation/)
 - [Defining the “Open” in Open Content and Open Educational Resources](https://opencontent.org/definition/) 
 - [What are Open Standards?](https://opensource.com/resources/what-are-open-standards)
+- [Flow Content Standard](https://flowinterop.org/#standards)
 
 
