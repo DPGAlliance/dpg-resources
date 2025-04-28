@@ -145,6 +145,7 @@ This document contains a list of **Best Practices** recommendation for the [Open
 - [OpenAI Safety Best Practices](https://platform.openai.com/docs/guides/safety-best-practices/safety-best-practices)
 - [SAP’s Guiding Principles for Artificial Intelligence](https://sap.com/documents/2018/09/940c6047-1c7d-0010-87a3-c30de2ffd8ff.html)
 - [Sony Group's Initiatives for Responsible AI](https://sony.com/en/SonyInfo/sony_ai/responsible_ai.html)
+- [AI Safety Good Practices](https://services.google.com/fh/files/blogs/google_secure_ai_framework_approach.pdf)
 
 ## Open Data
 
