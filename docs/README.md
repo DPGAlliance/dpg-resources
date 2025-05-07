@@ -4,13 +4,11 @@
 
 # DPG Resources
 
-The official knowledge base for all documentation, resources, guides, and templates to help open source digital solutions with their Digital Public Good (DPG) application and for successful DPGs to continue to improve their project within the focus areas of the [DPG Standard](https://digitalpublicgoods.net/standard).
+This subdirectory folder contains links to extra guides, templates, and other files directly relevant to some indicators of the DPG Standard. Ideally, you will be directly linked to specific files from the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki), but if you're exploring, you can find an overview below to aid further navigation.
 
 </div>
 
 ---
-
-This subdirectory folder contains links to extra guides, templates, and other files directly relevant to some indicators of the DPG Standard. Ideally, you will be directly linked to specific files from the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki), but if you're exploring, you can find an overview below to aid further navigation.
 
 | File | Description |
 |------|-------------|
