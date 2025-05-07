@@ -1,0 +1,27 @@
+<div align="center">
+
+<a href="https://digitalpublicgoods.net/r/dpg-slug" target="_blank" rel="no opener noreferrer"><img src="https://github.com/DPGAlliance/dpg-resources/blob/main/docs/assets/dpg-badge.png?raw=true" width="70" alt="Digital Public Goods Badge"></a>
+
+# DPG Resources
+
+The official knowledge base for all documentation, resources, guides, and templates to help open source digital solutions with their Digital Public Good (DPG) application and for successful DPGs to continue to improve their project within the focus areas of the [DPG Standard](https://digitalpublicgoods.net/standard).
+
+[![CC BY-SA 4.0 Badge][cc-by-sa-shield]](LICENSE) [![Contributor Covenant Badge][code-of-conduct-shield]](https://github.com/DPGAlliance/.github/blob/main/CODE_OF_CONDUCT.md) [![DPG Wiki Badge](https://img.shields.io/badge/DPG-Wiki-82dbe1?logo=github)](https://github.com/DPGAlliance/dpg-resources/wiki) [![DPG Community Badge](https://img.shields.io/badge/DPG-Community-3333ab?logo=github)](https://github.com/DPGAlliance/dpg-community)
+
+</div>
+
+---
+
+This subdirectory folder contains links to extra guides, templates, and other files directly relevant to some indicators of the DPG Standard. Ideally, you will be directly linked to specific files from the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki), but if you're exploring, you can find an overview below to aid further navigation.
+
+| File | Description |
+|------|-------------|
+| [`/assets`](./assets/) | A collection of static image files. |
+| [`/platform-independence`](./platform-independence/) | This guide contains more resources, demos, and frequently asked questions about the "Platform Independence" requirement for DPGs. |
+| [`dpg-review-policy.md`](./dpg-review-policy.md) | This document lays out the policies that govern the review process of digital public good applications. |
+| [`dpg-badge-usage.md`](./dpg-badge-usage.md) | This document offers instructions on how to add static and dynamic DPG official markdown badges to your repository's README file. |
+| [`extra-resources.md`](./extra-resources.md) | A growing collection of general helpful resources for different digital public good solution types. |
+| [`open-standards.md`](./open-standards.md) | This document contains a list of Open Standards recommendations for the "Open Standards & Best Practices" requirement for digital public goods. |
+| [`best-practices.md`](./best-practices.md) | This document contains a list of Best Practices recommendations for the "Open Standards & Best Practices" requirement for digital public goods. |
+| [`cc-licenses.md`](./cc-licenses.md) | This document outlines the recommended and acceptable Creative Commons licenses for Open Content DPGs. |
+
