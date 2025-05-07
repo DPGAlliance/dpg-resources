@@ -8,10 +8,10 @@ An AI risk assessment provides information on how risk is considered in developi
 
 | Questions | Answers |
 |----------|---------|
-| Describe the potential impact of the AI system on people, including vulnerable groups and those affected indirectly, in the context for which it was developed. (Consider how the model/system could affect these groups positively or negatively). | [Insert your answer here…] |
+| Describe the potential impact of the AI system on people, including vulnerable groups and those affected indirectly, in the context for which it was developed (Consider how the model/system could affect these groups positively or negatively). | [Insert your answer here…] |
 | Describe if and how stakeholders were engaged in the design and development of the solution. Indicate whether the system was designed based on human-centric principles, e.g. principles for digital development, FAIR principles, OECD Principles on AI, UNESCO Recommendation on the Ethics of AI, Google AI principles, etc. | [Insert your answer here…] |
 
-> [!NOTE]
+> [!TIP]
 > Proportionality risks refer to the potential for AI systems to exhibit disproportionate or excessive responses, actions, or impacts relative to the intended purpose. For instance, disproportionality against a particular language, geography, population, or other characteristics that might only represent certain groups of people.
 
 ---
@@ -28,7 +28,7 @@ An AI risk assessment provides information on how risk is considered in developi
 | What approach do you have in place to evaluate the model’s performance and fairness against new and/or unseen data (e.g., via cross-validation or bootstrapping)? | [Insert your answer here…] |
 | How does the model handle outliers, over- and underrepresentation, and bias towards certain populations? | [Insert your answer here…] |
 
-> [!NOTE]
+> [!TIP]
 > **Example biases:**
 > - **Data Bias**: AI trained on biased data (e.g., historical criminal justice data) can perpetuate discriminatory practices.
 > - **Algorithmic Bias**: AI systems (e.g., facial recognition) trained on unrepresentative data can lead to misidentification and harm.
@@ -49,7 +49,7 @@ An AI risk assessment provides information on how risk is considered in developi
 | Does the AI system leave meaningful opportunities for human decision-making, oversight, and control? | [Insert your answer here…] |
 | Are there measures in place to effectively appeal the model’s decision? If so, how is this process managed and communicated to the users? | [Insert your answer here…] |
 
-> [!NOTE]
+> [!TIP]
 > **Example mitigation practices:**
 > - Use of diverse data during training
 > - Human review for high-risk scenarios
@@ -79,7 +79,7 @@ An AI risk assessment provides information on how risk is considered in developi
 | If users interact directly with the system, have they been informed that they are interacting with an AI system, not a human? | [Insert your answer here…] |
 | Is AI-generated content clearly labeled as such? | [Insert your answer here…] |
 
-> [!NOTE]
+> [!TIP]
 > **Examples of transparency measures:**
 > - **Explainable AI (XAI)**: Systems that provide understandable decision logic.
 > - **Data Transparency**: Document source and nature of training data.
