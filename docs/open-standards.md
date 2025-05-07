@@ -1,6 +1,6 @@
 # Open Standards
 
-This document contains a list of **Best Practices** recommendation for the [Open Standards & Best Practices](https://github.com/DPGAlliance/dpg-resources/wiki/8.-Open-Standards-%26-Best-Practices) requirement for digital public goods.
+This document contains a list of **Open Standards** recommendations for the [Open Standards & Best Practices](https://github.com/DPGAlliance/dpg-resources/wiki/8.-Open-Standards-%26-Best-Practices) requirement for digital public goods.
 
 ---
 
