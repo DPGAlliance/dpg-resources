@@ -58,7 +58,7 @@ It is required that solutions technically demonstrate that someone could use the
 The solution can take one of the following paths:
 
 1. **Replace the proprietary dependency** (all that are required) for an open alternative with an OSI-approved license. _This is the best option when there are open-source alternatives that provide the same functionality or features._
-2. **Create an abstraction layer** for the features and logic that use the proprietary dependencies and allow implementers to choose between this and other open alternatives, removing any platform-specific intricacies. _This is the best option when the available open alternatives do not provide the same level of functionality or have other limitations or you want to provide choices to implementers_.
+2. **Create an abstraction layer** for the features and logic that use the proprietary dependencies and allow implementers to choose between this and other open alternatives, removing any platform-specific intricacies. _This is the best option when the available open alternatives do not provide the same level of functionality or have other limitations, or you want to provide choices to implementers_.
 3. **Create patch/migration instructions** that technically demonstrate the possibility of using or swapping the proprietary dependency for an open alternative, that is publicly available in the source code repository. This must include comprehensive instructions (code + documentation) that allow a developer to easily implement or use an open alternative. _This is the best option when it is not desired to change the main tech stack into production or final versions of the solution, but it still provides a way for implementers to use the open alternative if they choose to do so._
 
 ### Examples of Common Dependencies
@@ -102,9 +102,9 @@ If your solution depends directly on Firebase, to comply with platform independe
 <summary><b>Redis</b></summary>
 <br />
 
-Starting from Redis v7.4 and all future releases, Redis is moving away from the BSD 3-Clause License to a [dual-license](https://redis.io/blog/redis-adopts-dual-source-available-licensing) model, offering developers the choice between the [Redis Source Available License](https://redis.com/legal/rsalv2-agreement/) version 2 (RSALv2) or the [Server-Side Public License](https://spdx.org/licenses/SSPL-1.0.html) version 1 (SSPLv1), which is not approved or compatible with [OSI's definition](https://opensource.org/osd/) of open source.
+Starting from Redis v7.4, Redis moved away from the BSD 3-Clause License to a [dual-license](https://redis.io/blog/redis-adopts-dual-source-available-licensing) model, offering developers the choice between the [Redis Source Available License](https://redis.com/legal/rsalv2-agreement/) version 2 (RSALv2), the [Server-Side Public License](https://spdx.org/licenses/SSPL-1.0.html) version 1 (SSPLv1)—which is not approved or compatible with [OSI's definition](https://opensource.org/osd/) of open source, and the [GNU Affero General Public License](https://spdx.org/licenses/AGPL-3.0.html) version 3 (AGPLv3)—which is OSI-approved.
 
-If your solution depends directly on Redis, to comply with platform independence, please provide an open alternative to this dependency (e.g., Redict [LGPL-3.0-only], Valkey [BSD 3-Clause], etc.).
+If your solution depends directly on Redis, to comply with platform independence, please use Redis >=v8 on the AGPLv3 license option or provide an open alternative to this dependency (e.g., Redict [LGPL-3.0-only], Valkey [BSD 3-Clause], etc.) if you decide to use the option with RSALv2 or SSPLv1.
 </details>
 
 <details>
@@ -112,10 +112,6 @@ If your solution depends directly on Redis, to comply with platform independence
 <summary><b>Mapbox GL</b></summary>
 <br />
 
-In December 2020, Mapbox GL JS moved from 3-Clause BSD license to proprietary Mapbox Terms of Service.
+In December 2020, Mapbox GL JS moved from a 3-Clause BSD license to a proprietary Mapbox Terms of Service.
 
 </details>
-
-
-
-
