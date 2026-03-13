@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://digitalpublicgoods.net/r/dpg-slug" target="_blank" rel="no opener noreferrer"><img src="https://github.com/DPGAlliance/dpg-resources/blob/main/docs/assets/dpg-badge/dpg-badge.png?raw=true" width="70" alt="Digital Public Goods Badge"></a>
+<a href="https://digitalpublicgoods.net/registry" target="_blank" rel="no opener noreferrer"><img src="https://github.com/DPGAlliance/dpg-resources/blob/main/docs/assets/dpg-badge/dpg-badge.png?raw=true" width="70" alt="Digital Public Goods Badge"></a>
 
 # DPG Resources
 
@@ -14,7 +14,7 @@ The official knowledge base for all documentation, resources, guides, and templa
 
 > [!TIP]
 >
-> If you are not yet a recognized digital public good, you should consider applying! You can learn more about DPGs [here](https://digitalpublicgoods.net/digital-public-goods), review the [eligibility requirements](https://digitalpublicgoods.net/submission-guide/), or explore the registry of [existing DPGs](https://digitalpublicgoods.net/registry). You should also check out the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki) for the application support documentation.
+> If you are not yet a verified digital public good, you should consider applying! You can learn more about DPGs [here](https://digitalpublicgoods.net/digital-public-goods), review the [eligibility requirements](https://digitalpublicgoods.net/submission-guide/), or explore the registry of [existing DPGs](https://digitalpublicgoods.net/registry). You should also check out the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki) for the application support documentation.
 
 ---
 
@@ -28,7 +28,7 @@ Welcome, please select the starting point for your journey:
 
 ## 🔓 Open Sourcing Your Project
 
-You can refer to the [Open Source Guides](https://opensource.guide/starting-a-project) for an in-depth approach to starting an open-source project. While open source is not a panacea, there are certain circumstances and problems to which it is very well suited and tailoring the format of your project to the goals resources, and environment of your organization can help make your project more successful. We encourage you to review this [Open Source Archetypes Framework](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf) to identify and articulate your open-source goals. Here are some _musts_ for an open-source project:
+You can refer to the [Open Source Guides](https://opensource.guide/starting-a-project) for an in-depth approach to starting an open-source project. While open source is not a panacea, there are certain circumstances and problems to which it is very well suited and tailoring the format of your project to the goals, resources, and environment of your organisation can help make your project more successful. We encourage you to review this [Open Source Archetypes Framework](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf) to identify and articulate your open-source goals. Here are some _musts_ for an open-source project:
 
 - **Source**: Have a public repository or platform where you can host your source code, data or content.
 - **License**: Have a license that allows the code/data/content to be freely used, modified, and shared. 
