@@ -10,7 +10,8 @@ This document contains a list of **Open Standards** recommendations for the [Ope
 <summary><b>Accessibility</b></summary>
 <br />
 
-- [WCAG (Web Content Accessibility Guidelines) 2.0/2.1](https://w3.org/WAI/standards-guidelines/wcag)
+- [WCAG (Web Content Accessibility Guidelines) 2.x](https://w3.org/WAI/standards-guidelines/wcag)
+- [ATAG (Authoring Tool Accessibility Guidelines (ATAG)) 2.0](https://w3.org/WAI/standards-guidelines/atag)
 - [ICT Accessibility 508 Standards and 255 Guidelines](https://access-board.gov/ict)
 
 </details>
