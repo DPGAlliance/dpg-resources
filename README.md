@@ -57,11 +57,12 @@ Thanks for wanting to help! Kindly check out our [contributing guidelines](/CONT
 
 ## 📋 Licenses
 
-The content in this repository is released under the [Creative Commons Attribution ShareAlike 4.0 International License](LICENSE). For all external and third-party content linked here, see each for complete details, including license and permissions.
+The content in this repository is released under the [Creative Commons Attribution ShareAlike 4.0 International License](LICENSE). The [DPG badge](./docs/dpg-badge-usage.md) assets are released under the [CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/). For all external and third-party content linked here, see each for complete details, including license and permissions.
 
 [![CC BY-SA 4.0][cc-by-sa-image]](LICENSE)
+[![CC0 1.0][cc0-image]](https://creativecommons.org/publicdomain/zero/1.0/)
 
-> This is a human-readable summary of (and not a substitute for) the license.
+> This is a human-readable summary of (and not a substitute for) the CC BY-SA 4.0 license.
 > 
 > You are free to:
 > * **Share** — copy and redistribute the material in any medium or format.
@@ -77,5 +78,6 @@ for any purpose, even commercially.
 > No warranties are given. The license may not give you all of the permissions necessary for your intended use.
 
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc0-image]: https://licensebuttons.net/l/zero/1.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 [code-of-conduct-shield]: https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg
