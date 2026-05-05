@@ -1,6 +1,6 @@
 # Platform Independence Guide
 
-This guide contains more resources and frequently asked questions about the [Platform Independence](https://github.com/DPGAlliance/dpg-resources/wiki/4.-Platform-Independence) requirement for digital public goods.
+This guide includes additional resources and frequently asked questions on the [Platform Independence](https://github.com/DPGAlliance/dpg-resources/wiki/4.-Platform-Independence) requirement for digital public goods.
 
 ---
 
@@ -44,22 +44,22 @@ Any **closed-source or proprietary dependencies** and components that the soluti
 
 <br />
 
-**No**. Platform independence is not about cost, is about the freedom and legal terms on which the different dependencies and components are available.
+**No**. Platform independence is not about cost, but about the freedom and legal terms on which the different dependencies and components are available.
 </details>
 
 ## Evidence of Platform Independence
 
 **How can I comply with the platform independence requirement?**
 
-The straightforward answer is only to use open-source components, but we understand that in many cases this might not be the best available option or there is a specific reason to use a certain technology stack. In this sense, the use of closed or proprietary components is allowed as long as there are **open alternatives that can be easily used/swapped** and the feasibility of their implementation is demonstrated. 
+The straightforward answer is only to use open-source components, but we understand that in many cases, this might not be the best available option, or there is a specific reason to use a certain technology stack. In this sense, the use of closed or proprietary components is allowed as long as there are **open alternatives that can be easily used/swapped** and the feasibility of their implementation is demonstrated. 
 
-It is required that solutions technically demonstrate that someone could use the open alternative(s) without any **significant** refactoring or modification to the source code. In the case it is needed, comprehensive instructions on how to migrate to an open alternative are required.
+It is required that solutions technically demonstrate that someone could use the open alternative(s) without any **significant** refactoring or modification to the source code. In case it is needed, comprehensive instructions on how to migrate to an open alternative are required.
 
 The solution can take one of the following paths:
 
 1. **Replace the proprietary dependency** (all that are required) for an open alternative with an OSI-approved license. _This is the best option when there are open-source alternatives that provide the same functionality or features._
 2. **Create an abstraction layer** for the features and logic that use the proprietary dependencies and allow implementers to choose between this and other open alternatives, removing any platform-specific intricacies. _This is the best option when the available open alternatives do not provide the same level of functionality or have other limitations, or you want to provide choices to implementers_.
-3. **Create patch/migration instructions** that technically demonstrate the possibility of using or swapping the proprietary dependency for an open alternative, that is publicly available in the source code repository. This must include comprehensive instructions (code + documentation) that allow a developer to easily implement or use an open alternative. _This is the best option when it is not desired to change the main tech stack into production or final versions of the solution, but it still provides a way for implementers to use the open alternative if they choose to do so._
+3. **Create patch/migration instructions** that technically demonstrate the possibility of using or swapping the proprietary dependency for an open alternative that is publicly available in the source code repository. This must include comprehensive instructions (code + documentation) that allow a developer to easily implement or use an open alternative. _This is the best option when it is not desired to change the main tech stack into production or final versions of the solution, but it still provides a way for implementers to use the open alternative if they choose to do so._
 
 ### Examples of Common Dependencies
 
@@ -71,22 +71,11 @@ Here you can find some examples of common dependencies that are closed-source or
 
 All versions released after October 16, 2018, including patch fixes for prior versions, use a [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html) (SSPL), which is not approved or compatible with [OSI's definition](https://opensource.org/osd/) of open source.
 
-If your solution depends directly on MongoDB, to comply with platform independence, please provide an open alternative to this dependency (e.g., FerretDB [Apache License 2.0], PostgreSQL [PostgreSQL License], CouchDB [Apache License 2.0], etc.).
+> **If your solution depends directly on MongoDB, to comply with platform independence, please provide an open alternative to this dependency (e.g., FerretDB [Apache License 2.0], PostgreSQL [PostgreSQL License], CouchDB [Apache License 2.0], etc.).** 
 
-We recommend looking at [FerretDB](https://ferretdb.io) and its migration tools for simpler databases that do not require advanced features offered by MongoDB, as it is compatible with MongoDB drivers and popular MongoDB tools. We have a [migration example code](./mongodb-express-rest-api-example/) you can take a look and you can also get inspiration from the [migration documentation](https://github.com/opengovsg/FormSG/tree/develop?tab=readme-ov-file#database-alternatives) of approved DPGs.
+We recommend looking at [FerretDB](https://ferretdb.io) and its migration tools for simpler databases that do not require the advanced features offered by MongoDB, as it is compatible with MongoDB drivers and popular MongoDB tools. We have a [migration example code](./mongodb-express-rest-api-example/) you can take a look at, and you can also get inspiration from the [migration documentation](https://github.com/opengovsg/FormSG/tree/develop?tab=readme-ov-file#database-alternatives) of an approved DPG.
 
 _Please note that older versions of MongoDB under AGPL 3.0 license are not actively supported and may present real security concerns, so this option is not recommended and could potentially fail indicators 8 "Adherence to Best Practices" and 9A "Data Privacy & Security" of the DPG Standard._
-</details>
-
-<details>
-<summary><b>ElasticSearch and Kibana</b></summary>
-<br />
-  
-<b>Update</b>: ElasticSearch 8.16+ will now use the OSI-approved AGPL-3.0 version. 
-
-Versions 7.11 to 8.15, Elasticsearch and Kibana have moved from an Apache 2.0 license to a [dual license](https://elastic.co/pricing/faq/licensing) under the [Elastic License](https://spdx.org/licenses/Elastic-2.0.html) and [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html) (SSPL), which are not approved or compatible with [OSI's definition](https://opensource.org/osd) of open source.
-
-If your solution depends directly on ElasticSearch, to comply with platform independence, please provide an open alternative to this dependency (e.g., OpenSearch [Apache License 2.0], Apache Solr [Apache License 2.0], InfluxDB [MIT License], etc.).
 </details>
 
 <details>
@@ -95,16 +84,26 @@ If your solution depends directly on ElasticSearch, to comply with platform inde
 
 While some components of Firebase are open source, the majority of its services and features are proprietary and offered as part of Google's cloud offerings. The open-source components of Firebase are typically related to client-side libraries and SDKs. Core infrastructure and many of the backend services provided by Firebase, such as Firestore, Firebase Authentication, Cloud Messaging (FCM), and Cloud Storage, are not open-source and remain under Google's proprietary control.
 
-If your solution depends directly on Firebase, to comply with platform independence, please provide an open alternative to this dependency (e.g., Supabase [Apache License 2.0], Appwrite [BSD 3-Clause], etc.).
+> **If your solution depends directly on Firebase, to comply with platform independence, please provide an open alternative to this dependency (e.g., Supabase [Apache License 2.0], Appwrite [BSD 3-Clause], etc.).**
+</details>
+
+<details>
+<summary><b>ElasticSearch and Kibana</b></summary>
+<br />
+
+Versions 7.11 to 8.15, Elasticsearch and Kibana moved from an Apache 2.0 license to a [dual license](https://elastic.co/pricing/faq/licensing) under the [Elastic License](https://spdx.org/licenses/Elastic-2.0.html) and [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html) (SSPL), which are not approved or compatible with [OSI's definition](https://opensource.org/osd) of open source.
+
+> **If your solution depends directly on Elasticsearch, to ensure platform independence, use the Elasticsearch 8.16+ on the AGPL-3.0 license option or please provide an open alternative to this dependency (e.g., OpenSearch [Apache License 2.0], Apache Solr [Apache License 2.0], InfluxDB [MIT License], etc.).**
 </details>
 
 <details>
 <summary><b>Redis</b></summary>
 <br />
 
-Starting from Redis v7.4, Redis moved away from the BSD 3-Clause License to a [dual-license](https://redis.io/blog/redis-adopts-dual-source-available-licensing) model, offering developers the choice between the [Redis Source Available License](https://redis.com/legal/rsalv2-agreement/) version 2 (RSALv2), the [Server-Side Public License](https://spdx.org/licenses/SSPL-1.0.html) version 1 (SSPLv1)—which is not approved or compatible with [OSI's definition](https://opensource.org/osd/) of open source, and the [GNU Affero General Public License](https://spdx.org/licenses/AGPL-3.0.html) version 3 (AGPLv3)—which is OSI-approved.
+Starting from Redis v7.4, Redis moved away from the BSD 3-Clause License to a [dual-license](https://redis.io/blog/redis-adopts-dual-source-available-licensing) model, offering developers the choice between the [Redis Source Available License](https://redis.com/legal/rsalv2-agreement/) version 2 (RSALv2), the [Server-Side Public License](https://spdx.org/licenses/SSPL-1.0.html) version 1 (SSPLv1)—which is not approved or compatible with [OSI's definition](https://opensource.org/osd/) of open source, and the [GNU Affero General Public License](https://spdx.org/licenses/AGPL-3.0.html) version 3 (AGPL-3.0)—which is OSI-approved.
 
-If your solution depends directly on Redis, to comply with platform independence, please use Redis >=v8 on the AGPLv3 license option or provide an open alternative to this dependency (e.g., Redict [LGPL-3.0-only], Valkey [BSD 3-Clause], etc.) if you decide to use the option with RSALv2 or SSPLv1.
+> **If your solution depends directly on Redis, to comply with platform independence, please use Redis >=v8 on the AGPL-3.0 license option or provide an open alternative to this dependency (e.g., Redict [LGPL-3.0-only], Valkey [BSD 3-Clause], etc.) if you decide to use the option with RSALv2 or SSPLv1.**
+
 </details>
 
 <details>
@@ -113,5 +112,7 @@ If your solution depends directly on Redis, to comply with platform independence
 <br />
 
 In December 2020, Mapbox GL JS moved from a 3-Clause BSD license to a proprietary Mapbox Terms of Service.
+
+> **If your solution depends on Mapbox GL JS, consider using an open source alternative such as MapLibre GL JS [BSD 3-Clause].**
 
 </details>
