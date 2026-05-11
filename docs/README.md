@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://digitalpublicgoods.net/r/dpg-slug" target="_blank" rel="no opener noreferrer"><img src="https://github.com/DPGAlliance/dpg-resources/blob/main/docs/assets/dpg-badge.png?raw=true" width="70" alt="Digital Public Goods Badge"></a>
+<a href="https://digitalpublicgoods.net/r/dpg-slug" target="_blank" rel="no opener noreferrer"><img src="https://github.com/DPGAlliance/dpg-resources/blob/main/docs/assets/dpg-badge/dpg-badge.png?raw=true" width="70" alt="Digital Public Goods Badge"></a>
 
 # DPG Resources
 
