@@ -124,9 +124,6 @@ The framework places solutions into one of four quadrants. Solutions in **Quadra
 - Primarily serves a niche technical audience.
 - Limited applicability to public, institutional, or service-oriented contexts.
 
-> [!NOTE]
-> Solutions in this quadrant are typically screened out early in the review process. They may provide genuine technical value, but that value does not meet the threshold for a Digital Public Good.
-
 **Typical Examples:**
 - Developer libraries, SDKs, and plugins.
 - Compilers, interpreters, and programming languages.
@@ -140,6 +137,9 @@ The framework places solutions into one of four quadrants. Solutions in **Quadra
 | Developer utility | A general-purpose code testing library used by software engineers. No SDG linkage; no public beneficiary. |
 | Internal automation tool | A workflow automation script for engineering teams. Provides productivity value but no societal or SDG-linked output. |
 
+> [!NOTE]
+> Solutions in this quadrant are typically screened out early in the review process. They may provide genuine technical value, but that value does not meet the threshold for a Digital Public Good.
+
 ---
 
 ### Quadrant 4 — Low Impact, High Breadth (✅ Eligible with justification)
@@ -148,9 +148,6 @@ The framework places solutions into one of four quadrants. Solutions in **Quadra
 - Broad applicability across many user groups, including non-technical users.
 - Indirect SDG impact, but the solution underpins or enables SDG-aligned ecosystems at scale.
 - Applicants must make a clear case for societal relevance — this quadrant is not self-evidently eligible and requires justification.
-
-> [!NOTE]
-> For solutions in this quadrant, reviewers should ask: *Does this tool, by virtue of its widespread adoption and open nature, meaningfully contribute to the conditions under which SDG outcomes are achieved — even if that contribution is indirect?* High-breadth solutions with only weak or speculative societal relevance should not qualify on breadth alone.
 
 **Typical Examples:**
 - Broadly adopted open platforms that support civic access, information equity, or open knowledge ecosystems.
@@ -163,6 +160,9 @@ The framework places solutions into one of four quadrants. Solutions in **Quadra
 |---|---|
 | Open web platform | A widely used open-source content management system adopted by government digital services, civil society organisations, and NGOs globally. While not SDG-specific, its breadth of adoption in public-interest contexts supports SDG 17 (partnerships) and SDG 10 (inclusion) goals. Justification required. |
 | Open operating system | A freely available OS used by students, researchers, public institutions, and civil society organisations in low-resource environments. Contributes to digital access goals (SDG 9, SDG 17) by enabling open infrastructure at scale. Justification required. |
+
+> [!NOTE]
+> For solutions in this quadrant, reviewers should ask: *Does this tool, by virtue of its widespread adoption and open nature, meaningfully contribute to the conditions under which SDG outcomes are achieved — even if that contribution is indirect?* High-breadth solutions with only weak or speculative societal relevance should not qualify on breadth alone.
 
 ---
 
