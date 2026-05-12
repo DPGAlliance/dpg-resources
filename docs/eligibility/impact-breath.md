@@ -170,10 +170,10 @@ The framework places solutions into one of four quadrants. Solutions in **Quadra
 
 | Quadrant | Impact | Breadth | Eligible? | Notes |
 |---|---|---|---|---|
-| **Q1** | Direct | Low | ✅ Yes | Technical users, but SDG-linked outputs |
-| **Q2** | Direct | High | ✅ Yes | The clearest case for eligibility |
-| **Q3** | Indirect | Low | ❌ No | Screened out; no SDG linkage, no breadth |
-| **Q4** | Indirect | High | ✅ With justification | Applicant must make societal relevance case |
+| **Q1** | Direct | Low | ✅ Yes | Technical users, but SDG-linked outputs. |
+| **Q2** | Direct | High | ✅ Yes | The clearest case for eligibility. |
+| **Q3** | Indirect | Low | ❌ No | Screened out; no SDG linkage, no breadth. |
+| **Q4** | Indirect | High | ✅ With justification | Applicant must make societal relevance case. |
 
 ---
 
@@ -181,10 +181,10 @@ The framework places solutions into one of four quadrants. Solutions in **Quadra
 
 Regardless of quadrant, applicants should clearly articulate:
 
-1. **Which SDG targets does your solution support, and how?** Be specific about the target, not just the goal number. Explain whether the link is direct or indirect.
-2. **Who are the end users or direct beneficiaries?** Describe who uses the solution and how they benefit — distinguishing between technical users who operate it and the populations who benefit from its outputs.
-3. **What is the scale or potential reach?** Describe the current user base and the realistic population the solution is designed to serve.
-4. **If your solution is primarily technical (Q1 or Q4 candidate):** Explain specifically how the outputs of your solution contribute to SDG-relevant outcomes, and provide evidence or examples where possible.
+1. **Which SDG targets does the solution support, and how?**: Be specific about the target, not just the SDG number. Explain whether the link is direct or indirect.
+2. **Who are the end users or direct beneficiaries?**: Describe who uses the solution and how they benefit — distinguishing between technical users who operate it and the populations who benefit from its outputs.
+3. **What is the scale or potential reach?**: Describe the current user base and the realistic population the solution is designed to serve.
+4. **Is the solution primarily technical (Q1 or Q4 candidate)?:** Explain specifically how the outputs of your solution contribute to SDG-relevant outcomes, and provide evidence or examples where possible.
 
 ---
 
