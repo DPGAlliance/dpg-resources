@@ -5,17 +5,17 @@
 ---
 
 ## Table of Contents:
-1. [Purpose](#purpose)
-2. [The Two Dimensions](#the-two-dimensions)
-   1. [Impact](#impact)
-   2. [Breadth](#breadth)
-3. [The Four Quadrants](#the-four-quadrants)
-   1. [Quadrant 1 — High Impact, Low Breadth Eligible](#quadrant-1--high-impact-low-breadth-eligible)
-   2. [Quadrant 2 — High Impact, High Breadth Eligible](#quadrant-2--high-impact-high-breadth-eligible)
-   3. [Quadrant 3 — Low Impact, Low Breadth Not Eligible](#quadrant-3--low-impact-low-breadth-not-eligible)
-   4. [Quadrant 4 — Low Impact, High Breadth Eligible with Justification](#quadrant-4--low-impact-high-breadth-eligible-with-justification)
-4. [Summary Table](#summary-table)
-5. [What Applicants Should Address](#what-applicants-should-address)
+- [Purpose](#purpose)
+- [The Two Dimensions](#the-two-dimensions)
+  - [Impact](#impact)
+  - [Breadth](#breadth)
+- [The Four Quadrants](#the-four-quadrants)
+  - [Quadrant 1 — Direct Impact, Low Breadth (Eligible)](#quadrant-1--direct-impact-low-breadth--eligible)
+  - [Quadrant 2 — Indirect Impact, High Breadth (Eligible)](#quadrant-2--indirect-impact-high-breadth--eligible)
+  - [Quadrant 3 — Low Impact, Low Breadth (Not Eligible)](#quadrant-3--low-impact-low-breadth--not-eligible)
+  - [Quadrant 4 — Low Impact, High Breadth (Eligible with Justification)](#quadrant-4--low-impact-high-breadth--eligible-with-justification)
+- [Summary Table](#summary-table)
+- [What Applicants Should Address](#what-applicants-should-address)
 
 ---
 
@@ -32,7 +32,7 @@ This framework guides the assessment of submitted solutions for DPG eligibility 
 
 ### Impact
 
-**Impact** refers to the degree to which a solution directly contributes to one or more UN SDG targets.
+This refers to the degree to which a solution directly contributes to one or more UN SDG targets.
 
 **Direct Impact** solutions:
 - Are clearly and demonstrably linked to one or more SDG targets.
@@ -51,7 +51,7 @@ This framework guides the assessment of submitted solutions for DPG eligibility 
 
 ### Breadth
 
-**Breadth** refers to the range and diversity of end-users or beneficiaries who can directly use the solution and derive SDG-linked value from it.
+This refers to the range and diversity of end-users or beneficiaries who can directly use the solution and derive SDG-linked value from it.
 
 **High Breadth** solutions:
 - Are useful across multiple sectors, communities, or user groups.
@@ -72,26 +72,22 @@ This framework guides the assessment of submitted solutions for DPG eligibility 
 
 The framework places solutions into one of four quadrants. Solutions in **Quadrants 1, 2, and 4** are generally eligible. Solutions in **Quadrant 3** are not.
 
-|                    | Low Breadth | High Breadth |
-|--------------------|-------------|--------------|
-| Direct Impact | Q1 ✅ Eligible<br>Mission-driven specialist | Q2 ✅ Eligible<br>Broad public goods |
-| Indirect Impact | Q3 ❌ Not Eligible<br>(Screened out) | Q4 ✅ Eligible<br>(with justification) |
+![](https://github.com/DPGAlliance/dpg-resources/raw/main/docs/assets/dpg-IB-framework.jpg?raw=true)
 
 ---
 
-### Quadrant 1 — High Impact, Low Breadth ✅ Eligible
-
+### Quadrant 1 — Direct Impact, Low Breadth (✅ Eligible)
 
 **Characteristics:**
 - Strong and direct SDG relevance.
 - Serves specialised or technical users, but the outputs of those users have clear societal value.
 - The tool is a means to an SDG-relevant end, used by technical specialists who produce insights or outcomes that benefit the public.
 
-**Typical examples:**
+**Typical Examples:**
 - Diagnostic or analytical tools used by data scientists or researchers to produce SDG-relevant outputs (e.g., urban access metrics, public health risk mapping, climate modelling).
 - AI safety or audit tools that protect patients or ensure institutional integrity in SDG-linked systems.
 
-**Illustrative archetypes:**
+**Illustrative Archetypes:**
 
 | Archetype | Description |
 |---|---|
@@ -100,19 +96,19 @@ The framework places solutions into one of four quadrants. Solutions in **Quadra
 
 ---
 
-### Quadrant 2 — High Impact, High Breadth ✅ Eligible
+### Quadrant 2 — Indirect Impact, High Breadth (✅ Eligible)
 
 **Characteristics:**
 - Direct and demonstrable SDG impact.
 - Broad usability across large, diverse, and non-technical user groups.
 - Strong public-facing or service-delivery functionality.
 
-**Typical examples:**
+**Typical Examples:**
 - Citizen-facing health, education, or social protection platforms.
 - Open-source systems used by governments or NGOs to deliver services at scale.
 - Tools enabling public participation, transparency, or widespread service accessibility.
 
-**Illustrative archetypes:**
+**Illustrative Archetypes:**
 
 | Archetype | Description |
 |---|---|
@@ -121,22 +117,23 @@ The framework places solutions into one of four quadrants. Solutions in **Quadra
 
 ---
 
-### Quadrant 3 — Low Impact, Low Breadth ❌ Not Eligible
+### Quadrant 3 — Low Impact, Low Breadth (❌ Not Eligible)
 
 **Characteristics:**
 - No meaningful or demonstrable SDG contribution.
 - Primarily serves a niche technical audience.
 - Limited applicability to public, institutional, or service-oriented contexts.
 
-Solutions in this quadrant are typically screened out early in the review process. They may provide genuine technical value, but that value does not meet the threshold for a Digital Public Good.
+> [!NOTE]
+> Solutions in this quadrant are typically screened out early in the review process. They may provide genuine technical value, but that value does not meet the threshold for a Digital Public Good.
 
-**Typical examples:**
+**Typical Examples:**
 - Developer libraries, SDKs, and plugins.
 - Compilers, interpreters, and programming languages.
 - General-purpose engineering frameworks without SDG linkage.
 - Internal tooling with no public-facing application.
 
-**Illustrative archetypes:**
+**Illustrative Archetypes:**
 
 | Archetype | Description |
 |---|---|
@@ -145,23 +142,22 @@ Solutions in this quadrant are typically screened out early in the review proces
 
 ---
 
-### Quadrant 4 — Low Impact, High Breadth ✅ Eligible (with justification)
+### Quadrant 4 — Low Impact, High Breadth (✅ Eligible with justification)
 
 **Characteristics:**
 - Broad applicability across many user groups, including non-technical users.
 - Indirect SDG impact, but the solution underpins or enables SDG-aligned ecosystems at scale.
 - Applicants must make a clear case for societal relevance — this quadrant is not self-evidently eligible and requires justification.
 
-For solutions in this quadrant, reviewers should ask: *Does this tool, by virtue of its widespread adoption and open nature, meaningfully contribute to the conditions under which SDG outcomes are achieved — even if that contribution is indirect?*
+> [!NOTE]
+> For solutions in this quadrant, reviewers should ask: *Does this tool, by virtue of its widespread adoption and open nature, meaningfully contribute to the conditions under which SDG outcomes are achieved — even if that contribution is indirect?* High-breadth solutions with only weak or speculative societal relevance should not qualify on breadth alone.
 
-High-breadth solutions with only weak or speculative societal relevance should not qualify on breadth alone.
-
-**Typical examples:**
+**Typical Examples:**
 - Broadly adopted open platforms that support civic access, information equity, or open knowledge ecosystems.
 - General-purpose tools that underpin critical SDG-related operations for governments, NGOs, or civil society at scale.
 - Operating systems or content management systems with documented, substantial adoption in public-interest sectors.
 
-**Illustrative archetypes:**
+**Illustrative Archetypes:**
 
 | Archetype | Description |
 |---|---|
