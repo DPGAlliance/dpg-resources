@@ -12,8 +12,8 @@
 - [The Four Quadrants](#the-four-quadrants)
   - [Quadrant 1 — Direct Impact, Low Breadth (Eligible)](#quadrant-1--direct-impact-low-breadth--eligible)
   - [Quadrant 2 — Indirect Impact, High Breadth (Eligible)](#quadrant-2--indirect-impact-high-breadth--eligible)
-  - [Quadrant 3 — Low Impact, Low Breadth (Not Eligible)](#quadrant-3--low-impact-low-breadth--not-eligible)
-  - [Quadrant 4 — Low Impact, High Breadth (Eligible with Justification)](#quadrant-4--low-impact-high-breadth--eligible-with-justification)
+  - [Quadrant 3 — Indirect Impact, Low Breadth (Not Eligible)](#quadrant-3--indirect-impact-low-breadth--not-eligible)
+  - [Quadrant 4 — Indirect Impact, High Breadth (Eligible with Justification)](#quadrant-4--indirect-impact-high-breadth--eligible-with-justification)
 - [Summary Table](#summary-table)
 - [What Applicants Should Address](#what-applicants-should-address)
 
@@ -117,7 +117,7 @@ The framework places solutions into one of four quadrants. Solutions in **Quadra
 
 ---
 
-### Quadrant 3 — Low Impact, Low Breadth (❌ Not Eligible)
+### Quadrant 3 — Indirect Impact, Low Breadth (❌ Not Eligible)
 
 **Characteristics:**
 - No meaningful or demonstrable SDG contribution.
@@ -142,7 +142,7 @@ The framework places solutions into one of four quadrants. Solutions in **Quadra
 
 ---
 
-### Quadrant 4 — Low Impact, High Breadth (✅ Eligible with justification)
+### Quadrant 4 — Indirect Impact, High Breadth (✅ Eligible with justification)
 
 **Characteristics:**
 - Broad applicability across many user groups, including non-technical users.
