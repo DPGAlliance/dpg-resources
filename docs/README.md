@@ -13,7 +13,7 @@ This subdirectory folder contains links to extra guides, templates, and other fi
 | File | Description |
 |------|-------------|
 | [`/assets`](./assets/) | A collection of static image files. |
-| [`eligibility/cc-licenses.md`](./eligibility/cc-licenses.md) | This document outlines the recommended and acceptable Creative Commons licenses for Open Content DPGs. |
+| [`eligibility`](./eligibility/) | Documents and institutional papers from stakeholders on recommended guidance for specific topics and DPG categories. |
 | [`/platform-independence`](./platform-independence/) | This guide contains more resources, demos, and frequently asked questions about the "Platform Independence" requirement for DPGs. |
 | [`dpg-review-policy.md`](./dpg-review-policy.md) | This document lays out the policies that govern the review process of digital public good applications. |
 | [`dpg-badge-usage.md`](./dpg-badge-usage.md) | This document offers instructions on how to add static and dynamic DPG official markdown badges to your repository's README file. |
