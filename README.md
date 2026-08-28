@@ -51,9 +51,9 @@ If you have any questions, you can visit our [DPG Application FAQs](https://digi
 
 We are curating a [collection of extra resources](./docs/extra-resources.md) alongside the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki) that will help potential and approved DPGs improve their project within the focus areas of the DPG Standard, open source best practices, open source standards, international development priorities, etc. You should check them out to learn different ways you can improve your project, including links to helpful resources.
 
-## 🙌 Contributing
 
-Thanks for wanting to help! Kindly check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute to this repository.
+
+
 
 ## 📋 Licenses
 
