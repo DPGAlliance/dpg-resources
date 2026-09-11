@@ -22,9 +22,9 @@ The official knowledge base for all documentation, resources, guides, and templa
 
 Welcome, please select the starting point for your journey:
 
-1. [I have a project that I want to make open source](#open-sourcing-your-project).
-2. [I have an open-source solution, how can I make it a DPG](#becoming-a-digital-public-good)?
-3. [My project is a DPG, how can I improve it](#improving-your-project)?
+1. [I have a project that I want to make open source](#-open-sourcing-your-project).
+2. [I have an open-source solution, how can I make it a DPG](#-becoming-a-digital-public-good)?
+3. [My project is a DPG, how can I improve it](#-improving-your-project)?
 
 ## 🔓 Open Sourcing Your Project
 
