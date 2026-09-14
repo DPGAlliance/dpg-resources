@@ -1,6 +1,6 @@
 # DPG Assessment: Impact and Breadth Framework
 
-*How the DPGA evaluates whether a solution is eligible for DPG certification*
+*How the DPGA evaluates whether a solution is eligible for DPG certification.*
 
 ---
 
@@ -34,15 +34,9 @@ This framework guides the assessment of submitted solutions for DPG eligibility 
 
 This refers to the degree to which a solution directly contributes to one or more UN SDG targets.
 
-**Direct Impact** solutions:
-- Are clearly and demonstrably linked to one or more SDG targets.
-- Serve users or beneficiaries who are directly affected by SDG-linked outcomes — such as citizens, public-sector actors, community organisations, health workers, educators, or researchers working on SDG-relevant problems.
-- Have a primary use case in areas like public health, education, governance, climate action, financial inclusion, or social protection.
-
-**Indirect Impact** solutions:
-- Have only indirect relevance to SDGs — for example, the connection runs through several downstream steps.
-- Are primarily designed for software engineering, infrastructure, or technical performance without a clear societal application.
-- Cannot identify a specific SDG target that the solution supports.
+| Direct Impact | Indirect Impact |
+| ---           | --              |
+| → Are clearly and demonstrably linked to one or more SDG targets. <br /> → Serve users or beneficiaries who are directly affected by SDG-linked outcomes —such as citizens, public-sector actors, community organisations, health workers, educators, or researchers working on SDG-relevant problems. <br /> → Have a primary use case in areas like public health, education, governance, climate action, financial inclusion, or social protection. | → Have only indirect relevance to SDGs —for example, the connection runs through several downstream steps. <br />  → Are primarily designed for software engineering, infrastructure, or technical performance without a clear societal application. <br /> → Cannot identify a specific SDG target that the solution supports.
 
 > [!NOTE]
 > The line between direct and indirect impact requires reviewer judgment and is assessed case by case. As a general guide, you should ask: *Is the solution's primary output something that an SDG-affected beneficiary uses, or is it something a technical intermediary uses to potentially build something else?* Examples in each quadrant below illustrate how this distinction is applied in practice.
@@ -53,15 +47,9 @@ This refers to the degree to which a solution directly contributes to one or mor
 
 This refers to the range and diversity of end-users or beneficiaries who can directly use the solution and derive SDG-linked value from it.
 
-**High Breadth** solutions:
-- Are useful across multiple sectors, communities, or user groups.
-- Can be meaningfully used by non-technical users, or serve large public-sector, civil society, or citizen audiences.
-- Are not constrained to super-specialised technical disciplines.
-
-**Low Breadth** solutions:
-- Primarily serve a niche technical audience (e.g., software developers, data scientists, specialised researchers)
-- Have outputs that serve software development or technical infrastructure rather than public-facing services
-- Include: developer libraries, SDKs, plugins, compilers, programming languages, and frameworks used mainly in engineering workflows
+| High Breadth | Low Breadth |
+| ---           | --              |
+| → Are useful across multiple sectors, communities, or user groups. <br /> → Can be meaningfully used by non-technical users, or serve large public-sector, civil society, or citizen audiences. <br /> → Are not constrained to super-specialised technical disciplines. | → Primarily serve a niche technical audience (e.g., software developers, data scientists, specialised researchers). <br /> → Have outputs that serve software development or technical infrastructure rather than public-facing services. <br /> → Include: developer libraries, SDKs, plugins, compilers, programming languages, and frameworks used mainly in engineering workflows.
 
 > [!NOTE]
 > Low Breadth alone does not disqualify a solution — it can still be eligible if Impact is high (see Quadrant 1 below). Equally, Indirect Impact alone does not disqualify a solution if Breadth is high and societal relevance is well-justified (see Quadrant 4 below).
