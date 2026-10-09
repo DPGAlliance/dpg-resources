@@ -1,0 +1,53 @@
+name: mongodb-express-documentdb
+services:
+  documentdb:
+    image: ghcr.io/documentdb/documentdb/documentdb-local:pg17-0.117.0
+    restart: on-failure
+    ports:
+      - 10260:10260
+    environment:
+      - USERNAME=username
+      - PASSWORD=password
+      - ENABLE_TELEMETRY=false
+    volumes:
+      - documentdb-data:/data
+    healthcheck:
+      test: ["CMD-SHELL", "mongosh --quiet --tls --tlsAllowInvalidCertificates --username \"$$USERNAME\" --password \"$$PASSWORD\" --eval 'db.runCommand({ ping: 1 }).ok' mongodb://localhost:10260/"]
+      interval: 10s
+      timeout: 10s
+      retries: 5
+      start_period: 300s
+  app:
+    image: node:24-trixie-slim
+    restart: unless-stopped
+    volumes:
+      - ./app:/app
+    working_dir: /app
+    user: node
+    command: ["bash", "-c", "echo 'starting app...' && npm install && npm run start"]
+    depends_on:
+      - server
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_OPTIONS=--openssl-legacy-provider
+      - PORT=3000
+      - HOST=0.0.0.0
+  server:
+    image: node:24-trixie-slim
+    restart: unless-stopped
+    volumes:
+      - ./server:/server
+    working_dir: /server
+    user: node
+    environment:
+      - CONNECTION_URI=mongodb://username:password@documentdb:10260/?tls=true&tlsAllowInvalidCertificates=true&authMechanism=SCRAM-SHA-256
+    command: ["bash","-c", "echo 'starting server...' && npm install && npm run dev"]
+    depends_on:
+      documentdb:
+        condition: service_healthy
+    ports:
+      - "5050:5050"
+
+volumes:
+  documentdb-data:

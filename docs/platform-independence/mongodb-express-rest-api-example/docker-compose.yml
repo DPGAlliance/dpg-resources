@@ -19,7 +19,7 @@ services:
     depends_on:
       - postgres
   app:
-    image: node:18.16.1-slim
+    image: node:24-trixie-slim
     restart: unless-stopped
     volumes:
       - ./app:/app
