@@ -20,7 +20,6 @@ Here are examples of open content DPGs that allow derivatives:
 
 * [UNIDO Industrial Analytics Platform](https://iap.unido.org/) (CC-BY-SA-4.0) \- A knowledge platform that advances evidence-based policy dialogue, fosters thought leadership and connects global communities to share knowledge and practice in the field of industrial development.  
 * [NotesMaster](https://notesmaster.com/) (CC-BY-SA-4.0) \- Provides preconfigured content collections with local curricula, so trained teachers can create digital lessons online in NotesMaster for students to access. Teachers in any country can access and remix the lessons to suit their local curricula.  
-* [Rights Tracker](https://rightstracker.org/) (CC-BY-4.0) \- A freely available tool robustly tracking the human rights performance of countries.
 
 ## Benefits of These Licenses
 
