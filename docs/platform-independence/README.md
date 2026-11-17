@@ -102,7 +102,7 @@ Versions 7.11 to 8.15, Elasticsearch and Kibana moved from an Apache 2.0 license
 
 Starting from Redis v7.4, Redis moved away from the BSD 3-Clause License to a [dual-license](https://redis.io/blog/redis-adopts-dual-source-available-licensing) model, offering developers the choice between the [Redis Source Available License](https://redis.com/legal/rsalv2-agreement/) version 2 (RSALv2), the [Server-Side Public License](https://spdx.org/licenses/SSPL-1.0.html) version 1 (SSPLv1)—which is not approved or compatible with [OSI's definition](https://opensource.org/osd/) of open source, and the [GNU Affero General Public License](https://spdx.org/licenses/AGPL-3.0.html) version 3 (AGPL-3.0)—which is OSI-approved.
 
-> **If your solution depends directly on Redis, to comply with platform independence, please use Redis >=v8 on the AGPL-3.0 license option or provide an open alternative to this dependency (e.g., Redict [LGPL-3.0-only], Valkey [BSD 3-Clause], etc.) if you decide to use the option with RSALv2 or SSPLv1.**
+> **If your solution depends directly on Redis, to comply with platform independence, please use Redis >=v8 on the AGPL-3.0 license option or provide an open alternative to this dependency (e.g., Valkey [BSD 3-Clause], etc.) if you decide to use the option with RSALv2 or SSPLv1.**
 
 </details>
 
